@@ -1,0 +1,182 @@
+customer_id,full_name,email,phone,city,state,identity_key
+1,Michael garcia,michael.garcia170@company.co,3569782234,San Diego,CA,michael.garcia170@company.co
+2,Richard silva,,2074095938,New York,NY,2074095938
+3,Michael rodriguez,michael.rodriguez95@gmail.com,2833604929,Dallas,TX,michael.rodriguez95@gmail.com
+4,Susan anderson,susan.anderson96@yahoo.com,8086815771,Austin,TX,susan.anderson96@yahoo.com
+5,Jessica anderson,jessica.anderson84@yahoo.com,2955014630,New York,NY,jessica.anderson84@yahoo.com
+6,Mary hernandez,mary.hernandez10@outlook.com,4742674456,Phoenix,AZ,mary.hernandez10@outlook.com
+7,Richard gonzalez,richard.gonzalez14@gmail.com,6797415119,San Diego,CA,richard.gonzalez14@gmail.com
+8,Arjun kelly,arjun.kelly51@company.co,9599544228,Austin,TX,arjun.kelly51@company.co
+9,Priya khan,priya.khan61@company.co,5249738251,San Diego,CA,priya.khan61@company.co
+10,Liam khan,liam.khan137@gmail.com,8019603531,Phoenix,AZ,liam.khan137@gmail.com
+11,Patricia davis,patricia.davis27@company.co,3947498350,Chicago,IL,patricia.davis27@company.co
+12,Joseph smith,joseph.smith16@gmail.com,9364699201,Austin,TX,joseph.smith16@gmail.com
+13,Michael jones,michael.jones154@outlook.com,6934292773,Dallas,TX,michael.jones154@outlook.com
+14,Olivia jones,olivia.jones90@outlook.com,9707022680,Dallas,TX,olivia.jones90@outlook.com
+15,Fatima rodriguez,fatima.rodriguez80@yahoo.com,4512885569,houston,TX,fatima.rodriguez80@yahoo.com
+16,Wei wilson,wei.wilson149@company.co,9183174522,new york,NY,wei.wilson149@company.co
+17,Robert silva,robert.silva174@gmail.com,7195938581,San Diego,CA,robert.silva174@gmail.com
+18,Noah hernandez,noah.hernandez168@gmail.com,5419973754,Chicago,IL,noah.hernandez168@gmail.com
+19,Jennifer chen,jennifer.chen49@outlook.com,,Houston,TX,jennifer.chen49@outlook.com
+20,Liam garcia,liam.garcia54@gmail.com,7825087653,San Diego,CA,liam.garcia54@gmail.com
+21,Patricia kelly,patricia.kelly139@company.co,7578606876,houston,TX,patricia.kelly139@company.co
+22,Joseph martinez,joseph.martinez125@company.co,5936942747,Chicago,IL,joseph.martinez125@company.co
+23,Jessica gonzalez,jessica.gonzalez11@yahoo.com,6693465339,Dallas,TX,jessica.gonzalez11@yahoo.com
+24,Robert martinez,robert.martinez173@outlook.com,6622381932,Philadelphia,PA,robert.martinez173@outlook.com
+25,Michael silva,michael.silva128@gmail.com,,Houston,TX,michael.silva128@gmail.com
+26,Joseph rodriguez,joseph.rodriguez74@outlook.com,3718202876,houston,TX,joseph.rodriguez74@outlook.com
+27,Liam martinez,liam.martinez57@yahoo.com,4033501400,Chicago,IL,liam.martinez57@yahoo.com
+28,Arjun davis,arjun.davis98@gmail.com,3524723330,Dallas,TX,arjun.davis98@gmail.com
+29,Joseph hernandez,joseph.hernandez91@gmail.com,2524588827,Los Angeles,CA,joseph.hernandez91@gmail.com
+30,Olivia murphy,olivia.murphy23@gmail.com,4342691514,New York,NY,olivia.murphy23@gmail.com
+31,Olivia kelly,olivia.kelly8@yahoo.com,,Dallas,TX,olivia.kelly8@yahoo.com
+32,Elizabeth smith,elizabeth.smith89@gmail.com,7463295494,Austin,TX,elizabeth.smith89@gmail.com
+33,Richard chen,richard.chen66@gmail.com,2209837232,Austin,TX,richard.chen66@gmail.com
+34,William kelly,william.kelly118@gmail.com,5895248994,San Antonio,TX,william.kelly118@gmail.com
+35,Robert chen,robert.chen92@outlook.com,9022543485,Dallas,TX,robert.chen92@outlook.com
+36,Richard silva,richard.silva162@yahoo.com,2074095938,New York,NY,richard.silva162@yahoo.com
+37,David kelly,david.kelly24@company.co,,Philadelphia,PA,david.kelly24@company.co
+38,Mary martinez,mary.martinez129@yahoo.com,,Philadelphia,PA,mary.martinez129@yahoo.com
+39,Priya silva,,5725815634,Los Angeles,CA,5725815634
+40,Barbara hernandez,barbara.hernandez113@outlook.com,9817567180,San Antonio,TX,barbara.hernandez113@outlook.com
+41,Fatima miller,fatima.miller141@yahoo.com,9837674394,new york,NY,fatima.miller141@yahoo.com
+42,Barbara patel,barbara.patel145@gmail.com,3116629254,San Diego,CA,barbara.patel145@gmail.com
+43,Noah johnson,noah.johnson127@outlook.com,9637085689,San Diego,CA,noah.johnson127@outlook.com
+44,Priya martinez,priya.martinez146@company.co,8582311996,Philadelphia,PA,priya.martinez146@company.co
+45,William gonzalez,william.gonzalez53@company.co,5027673085,Austin,TX,william.gonzalez53@company.co
+46,Barbara lopez,barbara.lopez121@yahoo.com,3494509702,Phoenix,AZ,barbara.lopez121@yahoo.com
+47,Susan smith,susan.smith165@company.co,2795208033,Philadelphia,PA,susan.smith165@company.co
+48,David smith,david.smith3@yahoo.com,9146326574,Los Angeles,CA,david.smith3@yahoo.com
+49,Robert davis,robert.davis37@outlook.com,4913618179,houston,TX,robert.davis37@outlook.com
+50,Robert hernandez,robert.hernandez22@yahoo.com,8027674770,New York,NY,robert.hernandez22@yahoo.com
+51,Priya silva,priya.silva177@company.co,5725815634,Los Angeles,CA,priya.silva177@company.co
+52,Sofia silva,sofia.silva108@gmail.com,9263626091,Chicago,IL,sofia.silva108@gmail.com
+53,Michael patel,michael.patel56@outlook.com,9533732389,Philadelphia,PA,michael.patel56@outlook.com
+54,Liam smith,liam.smith143@outlook.com,2155664898,Los Angeles,CA,liam.smith143@outlook.com
+55,Barbara khan,barbara.khan77@outlook.com,8775792129,Phoenix,AZ,barbara.khan77@outlook.com
+56,William wilson,william.wilson130@outlook.com,4053359837,Los Angeles,CA,william.wilson130@outlook.com
+57,David martinez,david.martinez156@company.co,5592063972,houston,TX,david.martinez156@company.co
+58,Patricia lopez,patricia.lopez152@gmail.com,,Los Angeles,CA,patricia.lopez152@gmail.com
+59,Joseph rodriguez,joseph.rodriguez86@yahoo.com,,Houston,TX,joseph.rodriguez86@yahoo.com
+60,Susan rodriguez,susan.rodriguez138@company.co,9065794559,New York,NY,susan.rodriguez138@company.co
+61,David silva,david.silva148@outlook.com,7997616327,Dallas,TX,david.silva148@outlook.com
+62,Linda davis,linda.davis47@outlook.com,8753977528,New York,NY,linda.davis47@outlook.com
+63,Jessica martinez,jessica.martinez131@yahoo.com,5463178673,Austin,TX,jessica.martinez131@yahoo.com
+64,Elizabeth anderson,elizabeth.anderson97@yahoo.com,,new york,NY,elizabeth.anderson97@yahoo.com
+65,James martinez,james.martinez112@company.co,5058019022,Austin,TX,james.martinez112@company.co
+66,Liam khan,liam.khan1@gmail.com,8046321520,new york,NY,liam.khan1@gmail.com
+67,Joseph rodriguez,,3718202876,houston,TX,3718202876
+68,Noah hernandez,,5419973754,Chicago,IL,5419973754
+69,Susan miller,susan.miller25@company.co,2998748062,new york,NY,susan.miller25@company.co
+70,Elizabeth chen,elizabeth.chen94@gmail.com,5127821986,Phoenix,AZ,elizabeth.chen94@gmail.com
+71,Mary miller,mary.miller107@company.co,7623345719,Houston,TX,mary.miller107@company.co
+72,Arjun williams,arjun.williams64@yahoo.com,,Los Angeles,CA,arjun.williams64@yahoo.com
+73,David anderson,david.anderson7@yahoo.com,5733667065,Dallas,TX,david.anderson7@yahoo.com
+74,William anderson,william.anderson150@company.co,6259472557,Phoenix,AZ,william.anderson150@company.co
+75,Arjun rodriguez,arjun.rodriguez12@yahoo.com,7986387543,Austin,TX,arjun.rodriguez12@yahoo.com
+76,Wei chen,wei.chen99@outlook.com,,Houston,TX,wei.chen99@outlook.com
+77,William silva,william.silva101@gmail.com,,Houston,TX,william.silva101@gmail.com
+78,Michael lopez,michael.lopez169@gmail.com,9448603419,houston,TX,michael.lopez169@gmail.com
+79,James hernandez,james.hernandez41@company.co,,Los Angeles,CA,james.hernandez41@company.co
+80,Robert silva,robert.silva122@yahoo.com,8348994945,Phoenix,AZ,robert.silva122@yahoo.com
+81,Richard rodriguez,richard.rodriguez9@outlook.com,,Dallas,TX,richard.rodriguez9@outlook.com
+82,Jennifer williams,jennifer.williams124@company.co,,Philadelphia,PA,jennifer.williams124@company.co
+83,Jessica williams,jessica.williams13@company.co,,New York,NY,jessica.williams13@company.co
+84,Robert sharma,robert.sharma172@gmail.com,8465105500,Philadelphia,PA,robert.sharma172@gmail.com
+85,Robert sharma,robert.sharma19@company.co,9787453060,new york,NY,robert.sharma19@company.co
+86,David patel,david.patel100@gmail.com,7056482317,San Antonio,TX,david.patel100@gmail.com
+87,Elizabeth kelly,elizabeth.kelly161@outlook.com,,Dallas,TX,elizabeth.kelly161@outlook.com
+88,William davis,william.davis35@outlook.com,6053345915,Houston,TX,william.davis35@outlook.com
+89,Susan martinez,susan.martinez166@company.co,6142216321,new york,NY,susan.martinez166@company.co
+90,Jessica brown,jessica.brown78@yahoo.com,,Phoenix,AZ,jessica.brown78@yahoo.com
+91,Liam davis,liam.davis44@yahoo.com,3055627658,Dallas,TX,liam.davis44@yahoo.com
+92,Linda jones,linda.jones59@yahoo.com,9042052746,Dallas,TX,linda.jones59@yahoo.com
+93,Barbara rodriguez,barbara.rodriguez82@gmail.com,4868105526,houston,TX,barbara.rodriguez82@gmail.com
+94,Liam wilson,liam.wilson153@gmail.com,2524946119,Austin,TX,liam.wilson153@gmail.com
+95,Olivia murphy,olivia.murphy76@gmail.com,,Chicago,IL,olivia.murphy76@gmail.com
+96,Jennifer wilson,jennifer.wilson29@yahoo.com,6924187570,Philadelphia,PA,jennifer.wilson29@yahoo.com
+97,Wei kelly,wei.kelly81@yahoo.com,5442299098,Phoenix,AZ,wei.kelly81@yahoo.com
+98,Noah kelly,noah.kelly132@gmail.com,7705742479,Phoenix,AZ,noah.kelly132@gmail.com
+99,Robert anderson,robert.anderson58@company.co,,Phoenix,AZ,robert.anderson58@company.co
+100,James martinez,james.martinez75@yahoo.com,,San Diego,CA,james.martinez75@yahoo.com
+101,Priya smith,priya.smith38@outlook.com,7675062697,Dallas,TX,priya.smith38@outlook.com
+102,Fatima anderson,fatima.anderson171@outlook.com,,Dallas,TX,fatima.anderson171@outlook.com
+103,Robert davis,robert.davis83@company.co,,Austin,TX,robert.davis83@company.co
+104,Mary chen,mary.chen31@gmail.com,7552626138,Austin,TX,mary.chen31@gmail.com
+105,Joseph wilson,joseph.wilson106@company.co,3927306927,New York,NY,joseph.wilson106@company.co
+106,Sofia patel,sofia.patel17@gmail.com,4033567126,San Diego,CA,sofia.patel17@gmail.com
+107,Susan khan,susan.khan42@gmail.com,,New York,NY,susan.khan42@gmail.com
+108,David wilson,david.wilson68@company.co,,Philadelphia,PA,david.wilson68@company.co
+109,Wei patel,wei.patel111@outlook.com,3392715526,Austin,TX,wei.patel111@outlook.com
+110,Patricia anderson,patricia.anderson140@outlook.com,8784171349,new york,NY,patricia.anderson140@outlook.com
+111,David johnson,david.johnson144@gmail.com,9596319619,Los Angeles,CA,david.johnson144@gmail.com
+112,William brown,william.brown163@yahoo.com,,New York,NY,william.brown163@yahoo.com
+113,Joseph williams,joseph.williams105@gmail.com,4585312899,houston,TX,joseph.williams105@gmail.com
+114,Barbara murphy,barbara.murphy48@gmail.com,6098959785,San Antonio,TX,barbara.murphy48@gmail.com
+115,Robert sharma,,9787453060,new york,NY,9787453060
+116,Robert davis,robert.davis109@outlook.com,6723203522,new york,NY,robert.davis109@outlook.com
+117,Olivia davis,olivia.davis164@company.co,7728846802,San Antonio,TX,olivia.davis164@company.co
+118,Joseph wilson,joseph.wilson160@outlook.com,4209739394,Houston,TX,joseph.wilson160@outlook.com
+119,Linda murphy,linda.murphy119@gmail.com,4944322480,Dallas,TX,linda.murphy119@gmail.com
+120,Patricia kelly,patricia.kelly15@outlook.com,9684736573,San Antonio,TX,patricia.kelly15@outlook.com
+121,William silva,william.silva52@outlook.com,8793275920,houston,TX,william.silva52@outlook.com
+122,Noah khan,noah.khan39@outlook.com,,Los Angeles,CA,noah.khan39@outlook.com
+123,Noah khan,noah.khan87@company.co,,Austin,TX,noah.khan87@company.co
+124,Patricia anderson,patricia.anderson133@company.co,8889665295,houston,TX,patricia.anderson133@company.co
+125,Fatima lopez,fatima.lopez85@outlook.com,7667436632,Philadelphia,PA,fatima.lopez85@outlook.com
+126,Jennifer silva,jennifer.silva159@company.co,8902835458,New York,NY,jennifer.silva159@company.co
+127,Fatima davis,fatima.davis155@outlook.com,7749851430,Phoenix,AZ,fatima.davis155@outlook.com
+128,Patricia sharma,,6542752323,Austin,TX,6542752323
+129,Patricia anderson,patricia.anderson120@outlook.com,9105061474,Los Angeles,CA,patricia.anderson120@outlook.com
+130,Patricia khan,patricia.khan93@company.co,8208104697,Phoenix,AZ,patricia.khan93@company.co
+131,Joseph smith,,9364699201,Austin,TX,9364699201
+132,Patricia sharma,patricia.sharma147@yahoo.com,6542752323,Austin,TX,patricia.sharma147@yahoo.com
+133,Wei patel,,3392715526,Austin,TX,3392715526
+134,Patricia kelly,patricia.kelly134@yahoo.com,6822256374,Chicago,IL,patricia.kelly134@yahoo.com
+135,Priya silva,priya.silva2@yahoo.com,7744039928,New York,NY,priya.silva2@yahoo.com
+136,Fatima johnson,fatima.johnson102@yahoo.com,6817318245,Los Angeles,CA,fatima.johnson102@yahoo.com
+137,Richard martinez,richard.martinez179@gmail.com,9418723463,Houston,TX,richard.martinez179@gmail.com
+138,Priya patel,priya.patel32@gmail.com,2587202312,Los Angeles,CA,priya.patel32@gmail.com
+139,Noah johnson,noah.johnson26@company.co,8698612612,Dallas,TX,noah.johnson26@company.co
+140,Sofia anderson,sofia.anderson135@yahoo.com,5098647689,Austin,TX,sofia.anderson135@yahoo.com
+141,Liam davis,liam.davis33@gmail.com,3227835033,Phoenix,AZ,liam.davis33@gmail.com
+142,Fatima martinez,fatima.martinez126@gmail.com,5022227484,Austin,TX,fatima.martinez126@gmail.com
+143,Susan jones,susan.jones70@outlook.com,3862515262,Philadelphia,PA,susan.jones70@outlook.com
+144,Susan murphy,susan.murphy117@company.co,2766805342,Los Angeles,CA,susan.murphy117@company.co
+145,David lopez,david.lopez151@gmail.com,9036852099,Los Angeles,CA,david.lopez151@gmail.com
+146,Michael wilson,michael.wilson55@company.co,8218706279,San Diego,CA,michael.wilson55@company.co
+147,Arjun jones,arjun.jones43@gmail.com,3302426050,Phoenix,AZ,arjun.jones43@gmail.com
+148,Wei johnson,wei.johnson178@gmail.com,8625422079,Dallas,TX,wei.johnson178@gmail.com
+149,Olivia williams,olivia.williams6@yahoo.com,8774335741,New York,NY,olivia.williams6@yahoo.com
+150,Sofia miller,sofia.miller175@gmail.com,8196879214,houston,TX,sofia.miller175@gmail.com
+151,Priya anderson,priya.anderson60@yahoo.com,7704552988,New York,NY,priya.anderson60@yahoo.com
+152,Elizabeth sharma,elizabeth.sharma136@company.co,2994409807,new york,NY,elizabeth.sharma136@company.co
+153,Richard rodriguez,richard.rodriguez30@yahoo.com,4926338973,Philadelphia,PA,richard.rodriguez30@yahoo.com
+154,Joseph silva,joseph.silva36@outlook.com,3022759808,San Diego,CA,joseph.silva36@outlook.com
+155,Joseph khan,joseph.khan5@outlook.com,,new york,NY,joseph.khan5@outlook.com
+156,Fatima hernandez,fatima.hernandez116@gmail.com,6503029617,new york,NY,fatima.hernandez116@gmail.com
+157,Sofia rodriguez,sofia.rodriguez123@outlook.com,4618821153,Philadelphia,PA,sofia.rodriguez123@outlook.com
+158,John silva,john.silva142@outlook.com,4833483129,New York,NY,john.silva142@outlook.com
+159,Robert wilson,robert.wilson167@gmail.com,4496467560,new york,NY,robert.wilson167@gmail.com
+160,Noah murphy,noah.murphy157@company.co,2939649691,New York,NY,noah.murphy157@company.co
+161,Joseph davis,joseph.davis28@gmail.com,6537632604,new york,NY,joseph.davis28@gmail.com
+162,Sofia rodriguez,sofia.rodriguez40@company.co,7004571832,San Antonio,TX,sofia.rodriguez40@company.co
+163,David patel,david.patel20@yahoo.com,,San Diego,CA,david.patel20@yahoo.com
+164,William garcia,william.garcia158@gmail.com,5199386314,houston,TX,william.garcia158@gmail.com
+165,William hernandez,william.hernandez71@gmail.com,4849707906,Phoenix,AZ,william.hernandez71@gmail.com
+166,William williams,william.williams176@company.co,8613761641,San Antonio,TX,william.williams176@company.co
+167,Fatima patel,fatima.patel88@yahoo.com,4893024180,San Diego,CA,fatima.patel88@yahoo.com
+168,Michael smith,michael.smith73@gmail.com,3564443068,San Diego,CA,michael.smith73@gmail.com
+169,Jessica smith,jessica.smith18@yahoo.com,5715144923,new york,NY,jessica.smith18@yahoo.com
+170,David wilson,david.wilson110@yahoo.com,6834498483,Philadelphia,PA,david.wilson110@yahoo.com
+171,Patricia williams,patricia.williams4@outlook.com,2995676635,Phoenix,AZ,patricia.williams4@outlook.com
+172,Jennifer sharma,jennifer.sharma62@outlook.com,,Philadelphia,PA,jennifer.sharma62@outlook.com
+173,Olivia gonzalez,olivia.gonzalez115@gmail.com,8798673492,Phoenix,AZ,olivia.gonzalez115@gmail.com
+174,Olivia brown,olivia.brown46@company.co,2396814644,Phoenix,AZ,olivia.brown46@company.co
+175,Jennifer hernandez,jennifer.hernandez104@company.co,,Phoenix,AZ,jennifer.hernandez104@company.co
+176,Elizabeth anderson,,,new york,NY,elizabeth anderson
+177,Joseph jones,joseph.jones69@gmail.com,7462277455,San Diego,CA,joseph.jones69@gmail.com
+178,Sofia davis,sofia.davis63@outlook.com,6502795681,Houston,TX,sofia.davis63@outlook.com
+179,Sofia sharma,sofia.sharma103@outlook.com,6815567690,new york,NY,sofia.sharma103@outlook.com
+180,Susan kelly,susan.kelly34@yahoo.com,7787356183,San Diego,CA,susan.kelly34@yahoo.com
+181,Noah khan,noah.khan72@gmail.com,,New York,NY,noah.khan72@gmail.com

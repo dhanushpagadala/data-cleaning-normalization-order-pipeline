@@ -1,0 +1,729 @@
+order_id,customer_name,email,phone,city,state,product_name,category,unit_price,quantity,order_date,status
+1210,Jennifer Wilson,JENNIFER.WILSON29@YAHOO.COM,(692) 418-7570,Philadelphia,PA,wireless mouse,electronics,19.99,1,21-11-2023,Pending
+1527,patricia kelly,Patricia.kelly134@yahoo.com,+16822256374,Chicago,IL,Notebook Set,Office Supplies,8.99,2,2024-04-25,Pending
+1654,michael garcia,MICHAEL.GARCIA170@COMPANY.CO ,3569782234,San Diego,CA,Yoga Mat,Fitness,24.0,2,2023-03-15,Cancelled
+1508,William Brown,WILLIAM.BROWN163@YAHOO.COM ,709-964-8055,New York,NY,Standing Desk,Furniture,249.0,3,8/13/23,delivered
+1466, Richard Silva ,N/A,2074095938,New York,NY,Stainless Water Bottle,Fitness,15.75,1,9/21/2023,SHIPPED
+1332,wei johnson,Wei.johnson178@gmail.com ,862.542.2079,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,2,8/13/2023,Delivered
+1227,FATIMA PATEL,FATIMA.PATEL88@YAHOO.COM,489.302.4180,San Diego,CA,Ballpoint Pens (12pk),Office Supplies,6.49,2,12/4/24,cancelled
+1079,william davis,William.Davis35@outlook.com,6053345915,Houston,TX,Standing Desk,Furniture,249.0,5,2023-09-21,shipped
+1147, Fatima Rodriguez ,FATIMA.RODRIGUEZ80@YAHOO.COM ,4512885569,houston,TX,Bluetooth Speaker,Electronics,45.0,3,5/8/2023,SHIPPED
+1107,JOSEPH SMITH, Joseph.smith16@gmail.com,9364699201,Austin ,TX,Notebook Set,Office Supplies,8.99,1,2024-06-07,delivered
+1089,susan anderson,SUSAN.ANDERSON96@YAHOO.COM ,(808) 681-5771,Austin ,TX,Bluetooth Speaker,Electronics,45.0,2,2023-10-10,shipped
+1027,WILLIAM BROWN,WILLIAM.BROWN163@YAHOO.COM ,709-964-8055,New York,NY,USB-C Cable 6ft,Electronics,9.5,3,4/26/2023,Cancelled
+1069, Richard Gonzalez ,Richard.gonzalez14@gmail.com ,+16797415119,San Diego,CA,USB-C Cable 6ft,Electronics,9.5,5,19-12-2024,Delivered
+1234, Noah Khan ,Noah.Khan39@outlook.com ,,Los Angeles,CA,Wireless Mouse,Electronics,19.99,2,11/20/24,Pending
+1645,Michael Rodriguez,Michael.Rodriguez95@gmail.com,283-360-4929,Dallas,TX,Yoga Mat,Fitness,24.0,2,01-07-2023,Delivered
+1599,SUSAN ANDERSON,SUSAN.ANDERSON96@YAHOO.COM ,(808) 681-5771,Austin ,TX,Stainless Water Bottle,Fitness,15.75,1,8/2/24,shipped
+1609,JESSICA ANDERSON,JESSICA.ANDERSON84@YAHOO.COM ,2955014630,New York,NY,Standing Desk,Furniture,249.0,4,27-03-2023,Shipped
+1411, Patricia Kelly ,PATRICIA.KELLY15@OUTLOOK.COM,(968) 473-6573,San Antonio,TX,Bluetooth Speaker,Electronics,45.0,4,5/27/2024,Cancelled
+1003,JENNIFER WILLIAMS, Jennifer.williams124@company.co,,Philadelphia,PA,Yoga Mat,Fitness,24.0,2,2023-02-10,Pending
+1295, Priya Patel ,Priya.patel32@gmail.com,,Los Angeles,CA,Standing Desk,Furniture,249.0,2,2024-04-06,shipped
+1424,Robert Martinez,Robert.Martinez173@outlook.com ,662.238.1932,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,3,2023-06-27,SHIPPED
+1484,Susan Kelly,Susan.kelly34@yahoo.com ,778.735.6183,San Diego,CA,Wireless Mouse,Electronics,19.99,1,8/22/2023,cancelled
+1222,BARBARA MURPHY, Barbara.Murphy48@gmail.com,609.895.9785,San Antonio,TX,wireless mouse,electronics,19.99,4,2024-04-23,cancelled
+1653, Mary Hernandez ,Mary.Hernandez10@outlook.com ,+14742674456,Phoenix,AZ,Desk Lamp,Furniture,22.3,4,28-04-2024,Delivered
+1391, Priya Patel ,Priya.patel32@gmail.com,258-720-2312,Los Angeles,CA,Yoga  Mat,Fitness,24.0,1,2024-01-23,delivered
+1149, Richard Rodriguez ,RICHARD.RODRIGUEZ30@YAHOO.COM,492-633-8973,Philadelphia,PA,wireless mouse,electronics,19.99,2,4/27/2024,shipped
+1164,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,5,2023-10-11,Cancelled
+1417, Richard Gonzalez ,Richard.gonzalez14@gmail.com ,6797415119,San Diego,CA,Ballpoint Pens (12pk),Office Supplies,6.49,1,27-02-2024,Delivered
+1657,Arjun Kelly,Arjun.Kelly51@company.co ,959.954.4228,Austin ,TX,Yoga  Mat,Fitness,24.0,4,7/13/23,Cancelled
+1324, Michael Rodriguez ,Michael.Rodriguez95@gmail.com,283-360-4929,Dallas,TX,Bluetooth Speaker,Electronics,45.0,4,10/18/23,delivered
+1294, Wei Kelly ,WEI.KELLY81@YAHOO.COM,544.229.9098,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,3,5/15/24,cancelled
+1310,Susan Khan,SUSAN.KHAN42@GMAIL.COM ,3142773442,New York,NY,Yoga  Mat,Fitness,24.0,5,4/1/23,SHIPPED
+1456,OLIVIA WILLIAMS, Olivia.Williams6@yahoo.com,8774335741,New York,NY,Bluetooth Speaker,Electronics,45.0,5,2024-06-03,Delivered
+1131,Priya Khan, Priya.khan61@company.co,+15249738251,San Diego,CA,Office Chair,Furniture,129.99,4,2023-08-21,Pending
+1399, Jessica Anderson ,JESSICA.ANDERSON84@YAHOO.COM ,2955014630,New York,NY,Bluetooth Speaker,Electronics,45.0,3,02-03-2024,Shipped
+1370,Fatima Lopez,FATIMA.LOPEZ85@OUTLOOK.COM ,7667436632,Philadelphia,PA,Office Chair,Furniture,129.99,4,2024-10-24,Delivered
+1192,RICHARD RODRIGUEZ,Richard.Rodriguez9@outlook.com,,Dallas,TX,Notebook Set,Office Supplies,8.99,5,12/23/23,Pending
+1543, Liam Khan ,LIAM.KHAN137@GMAIL.COM ,8019603531,Phoenix,AZ,Yoga Mat,Fitness,24.0,1,2024-03-16,shipped
+1033, William Brown ,WILLIAM.BROWN163@YAHOO.COM ,7099648055,New York,NY,Wireless Mouse,Electronics,19.99,4,08-08-2024,Cancelled
+1021,Fatima Davis,Fatima.Davis155@outlook.com,+17749851430,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,4,08-02-2024,cancelled
+1161,BARBARA RODRIGUEZ,Barbara.rodriguez82@gmail.com,+14868105526,houston,TX,Wireless Mouse,Electronics,19.99,1,2024-02-28,Pending
+1620, Mary Hernandez ,Mary.Hernandez10@outlook.com ,4742674456,Phoenix,AZ,Office Chair,Furniture,129.99,5,8/15/24,Pending
+1217,OLIVIA DAVIS,Olivia.davis164@company.co,(772) 884-6802,San Antonio,TX,Bluetooth Speaker,Electronics,45.0,4,2024-08-15,Cancelled
+1283,patricia davis, Patricia.Davis27@company.co,394-749-8350,Chicago,IL,wireless mouse,electronics,19.99,1,02-09-2024,Pending
+1036,joseph rodriguez,Joseph.Rodriguez74@outlook.com ,371-820-2876,houston,TX,Bluetooth Speaker,Electronics,45.0,5,27-03-2024,Delivered
+1208,fatima anderson, Fatima.Anderson171@outlook.com,,Dallas,TX,wireless mouse,electronics,19.99,1,2023-02-25,delivered
+1045,joseph davis,Joseph.Davis28@gmail.com,6537632604,new york,ny,Yoga Mat,Fitness,24.0,1,7/5/2024,cancelled
+1172,Joseph Rodriguez,Joseph.Rodriguez74@outlook.com ,3718202876,houston,TX,wireless mouse,electronics,19.99,4,16-07-2024,shipped
+1027,WILLIAM BROWN,WILLIAM.BROWN163@YAHOO.COM ,709-964-8055,New York,NY,USB-C Cable 6ft,Electronics,9.5,3,4/26/2023,Cancelled
+1076,jessica brown,JESSICA.BROWN78@YAHOO.COM,,Phoenix,AZ,Yoga  Mat,Fitness,24.0,3,26-02-2024,Delivered
+1500,joseph smith, Joseph.smith16@gmail.com,9364699201,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,2,21-05-2023,Delivered
+1541, Michael Jones , Michael.Jones154@outlook.com,693.429.2773,Dallas,TX,Standing Desk,Furniture,249.0,4,22-12-2024,shipped
+1627,olivia jones, OLIVIA.JONES90@OUTLOOK.COM,9707022680,Dallas,TX,Stainless Water Bottle,Fitness,15.75,2,25-11-2024,Pending
+1012,susan murphy,Susan.murphy117@company.co,276.680.5342,Los Angeles,CA,wireless mouse,electronics,19.99,1,11/17/2023,delivered
+1472,WILLIAM WILLIAMS,WILLIAM.WILLIAMS176@COMPANY.CO ,861-376-1641,San Antonio,TX,Yoga Mat,Fitness,24.0,3,2024-03-03,shipped
+1402,RICHARD MARTINEZ,Richard.martinez179@gmail.com ,941.872.3463,Houston,TX,Yoga Mat,Fitness,24.0,4,6/3/2023,Cancelled
+1001,joseph silva, Joseph.Silva36@outlook.com,302-275-9808,San Diego,CA,Stainless Water Bottle,Fitness,15.75,3,23-10-2023,cancelled
+1648,FATIMA RODRIGUEZ,FATIMA.RODRIGUEZ80@YAHOO.COM ,4512885569,houston,TX,Wireless Mouse,Electronics,19.99,4,03-04-2024,Shipped
+1028,ELIZABETH CHEN,Elizabeth.Chen94@gmail.com ,+15127821986,Phoenix,AZ,Office Chair,Furniture,129.99,5,2/10/24,cancelled
+1277, Wei Wilson , Wei.Wilson149@company.co,9183174522,new york,ny,Stainless Water Bottle,Fitness,15.75,3,10/7/24,Shipped
+1011,Fatima Davis,Fatima.Davis155@outlook.com,7749851430,Phoenix,AZ,Desk Lamp,Furniture,22.3,4,2023-04-10,Delivered
+1404,susan khan,SUSAN.KHAN42@GMAIL.COM ,3142773442,New York,NY,Office Chair,Furniture,129.99,4,8/24/23,cancelled
+1193, Noah Hernandez ,Noah.hernandez168@gmail.com ,(541) 997-3754,Chicago,IL,Desk Lamp,Furniture,22.3,2,8/5/2024,Pending
+1353,michael smith,Michael.smith73@gmail.com,3564443068,San Diego,CA,Office Chair,Furniture,129.99,2,10/2/23,Cancelled
+1528, Robert Silva ,ROBERT.SILVA174@GMAIL.COM ,+17195938581,San Diego,CA,wireless mouse,electronics,19.99,4,2023-06-05,Cancelled
+1576,Noah Hernandez,Noah.hernandez168@gmail.com ,5419973754,Chicago,IL,Desk Lamp,Furniture,22.3,2,2024-04-08,Pending
+1110,WILLIAM WILSON, William.Wilson130@outlook.com,405.335.9837,Los Angeles,CA,Bluetooth Speaker,Electronics,45.0,,7/6/2024,SHIPPED
+1485,Barbara Khan, Barbara.Khan77@outlook.com,+18775792129,Phoenix,AZ,Notebook Set,Office Supplies,8.99,5,11/25/24,Delivered
+1179,michael smith,Michael.smith73@gmail.com,3564443068,San Diego,CA,Desk Lamp,Furniture,22.3,3,7/21/24,Shipped
+1280, Robert Martinez ,Robert.Martinez173@outlook.com ,662.238.1932,Philadelphia,PA,Standing Desk,Furniture,249.0,2,17-06-2023,Delivered
+1565,Jennifer Chen,JENNIFER.CHEN49@OUTLOOK.COM ,,Houston,TX,Stainless Water Bottle,Fitness,15.75,4,2024-12-14,shipped
+1482,sofia sharma,Sofia.sharma103@outlook.com,681.556.7690,new york,ny,wireless mouse,electronics,19.99,2,5/25/24,Pending
+1519,liam garcia, LIAM.GARCIA54@GMAIL.COM,7825087653,San Diego,CA,Standing Desk,Furniture,249.0,4,2023-02-04,Pending
+1246,Patricia Lopez, PATRICIA.LOPEZ152@GMAIL.COM,,Los Angeles,CA,Bluetooth Speaker,Electronics,45.0,5,4/24/2024,cancelled
+1622, Patricia Kelly ,PATRICIA.KELLY139@COMPANY.CO,(757) 860-6876,houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,04-02-2023,Shipped
+1556,ROBERT CHEN,Robert.Chen92@outlook.com,9022543485,Dallas,TX,Ballpoint Pens (12pk),Office Supplies,6.49,2,4/5/24,cancelled
+1423,DAVID KELLY, David.Kelly24@company.co,,Philadelphia,PA,Office Chair,Furniture,129.99,5,2/4/2024,shipped
+1215,WILLIAM GARCIA,William.Garcia158@gmail.com,5199386314,houston,TX,wireless mouse,electronics,19.99,4,6/22/2024,Shipped
+1635,Joseph Martinez, Joseph.martinez125@company.co,593-694-2747,Chicago,IL,Office Chair,Furniture,129.99,4,21-05-2024,delivered
+1257,Jessica Gonzalez,Jessica.gonzalez11@yahoo.com ,6693465339,Dallas,TX,Wireless Mouse,Electronics,19.99,3,12/9/23,cancelled
+1043,Patricia Williams,Patricia.Williams4@outlook.com ,2995676635,Phoenix,AZ,Stainless Water Bottle,Fitness,15.75,3,10/10/23,delivered
+1572,fatima davis,Fatima.Davis155@outlook.com,7749851430,Phoenix,AZ,USB-C Cable 6ft,Electronics,9.5,2,15-11-2023,shipped
+1038,arjun rodriguez,Arjun.Rodriguez12@yahoo.com ,798.638.7543,Austin ,TX,Yoga  Mat,Fitness,24.0,4,9/1/23,SHIPPED
+1474,Barbara Khan, Barbara.Khan77@outlook.com,+18775792129,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,1,10/7/2023,Pending
+1613,Robert Martinez,Robert.Martinez173@outlook.com ,662.238.1932,Philadelphia,PA,USB-C Cable 6ft,Electronics,9.5,4,4/10/2024,Pending
+1080,LIAM KHAN,Liam.Khan1@gmail.com,(804) 632-1520,new york,ny,Bluetooth Speaker,Electronics,45.0,2,12/5/2023,Cancelled
+1050, Liam Garcia , LIAM.GARCIA54@GMAIL.COM,7825087653,San Diego,CA,Yoga Mat,Fitness,24.0,5,3/4/2023,Shipped
+1403,ARJUN DAVIS, Arjun.Davis98@gmail.com,(352) 472-3330,Dallas,TX,Yoga Mat,Fitness,24.0,4,2024-10-24,delivered
+1396, Michael Silva ,Michael.silva128@gmail.com ,,Houston,TX,Yoga  Mat,Fitness,24.0,4,19-01-2024,shipped
+1251,robert martinez,Robert.Martinez173@outlook.com ,662.238.1932,Philadelphia,PA,Standing Desk,Furniture,249.0,3,8/12/24,shipped
+1221, Joseph Rodriguez ,Joseph.Rodriguez74@outlook.com ,371-820-2876,houston,TX,Desk Lamp,Furniture,22.3,5,1/6/2024,cancelled
+1595,liam martinez,LIAM.MARTINEZ57@YAHOO.COM ,4033501400,Chicago,IL,Wireless Mouse,Electronics,19.99,3,6/1/2024,Pending
+1373,MICHAEL WILSON,MICHAEL.WILSON55@COMPANY.CO ,8218706279,San Diego,CA,Desk Lamp,Furniture,22.3,3,6/26/2023,shipped
+1016, Arjun Kelly ,Arjun.Kelly51@company.co ,959.954.4228,Austin ,TX,Wireless Mouse,Electronics,19.99,3,2024-09-16,Delivered
+1514,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Yoga Mat,Fitness,24.0,1,15-02-2023,SHIPPED
+1184,richard gonzalez,Richard.gonzalez14@gmail.com ,+16797415119,San Diego,CA,Yoga Mat,Fitness,24.0,1,23-06-2023,Pending
+1473,David Wilson,DAVID.WILSON110@YAHOO.COM,+16834498483,Philadelphia,PA,Wireless Mouse,Electronics,19.99,2,11/17/23,shipped
+1371, Olivia Jones , OLIVIA.JONES90@OUTLOOK.COM,(970) 702-2680,Dallas,TX,wireless mouse,electronics,19.99,2,6/13/23,SHIPPED
+1143,BARBARA KHAN, Barbara.Khan77@outlook.com,8775792129,Phoenix,AZ,Standing Desk,Furniture,249.0,5,6/19/2024,Delivered
+1497,barbara khan, Barbara.Khan77@outlook.com,8775792129,Phoenix,AZ,Desk Lamp,Furniture,22.3,3,14-04-2024,Cancelled
+1630,ARJUN DAVIS, Arjun.Davis98@gmail.com,3524723330,Dallas,TX,Yoga  Mat,Fitness,24.0,2,11/17/23,Shipped
+1361, Michael Garcia ,MICHAEL.GARCIA170@COMPANY.CO ,,San Diego,CA,Notebook Set,Office Supplies,8.99,5,2/2/23,SHIPPED
+1191, Richard Gonzalez ,Richard.gonzalez14@gmail.com ,+16797415119,San Diego,CA,Notebook Set,Office Supplies,8.99,4,01-12-2024,delivered
+1590, Joseph Hernandez , JOSEPH.HERNANDEZ91@GMAIL.COM,(252) 458-8827,Los Angeles,CA,Yoga Mat,Fitness,24.0,1,2024-04-16,delivered
+1389,Olivia Murphy,Olivia.murphy23@gmail.com,434.269.1514,New York,NY,Yoga Mat,Fitness,24.0,2,05-11-2024,cancelled
+1628, Olivia Kelly , Olivia.Kelly8@yahoo.com,,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,2,2024-07-07,cancelled
+1304,BARBARA MURPHY, Barbara.Murphy48@gmail.com,609.895.9785,San Antonio,TX,Stainless Water Bottle,Fitness,15.75,1,2023-09-01,delivered
+1437,ROBERT DAVIS,Robert.davis109@outlook.com ,6723203522,new york,ny,Standing Desk,Furniture,249.0,2,7/19/2023,Shipped
+1450,MICHAEL RODRIGUEZ,Michael.Rodriguez95@gmail.com,2833604929,Dallas,TX,Yoga  Mat,Fitness,24.0,1,5/15/2023,delivered
+1344,ROBERT WILSON, ROBERT.WILSON167@GMAIL.COM,+14496467560,new york,ny,USB-C Cable 6ft,Electronics,9.5,5,5/23/23,SHIPPED
+1266,michael jones, Michael.Jones154@outlook.com,693.429.2773,Dallas,TX,Desk Lamp,Furniture,22.3,,6/28/23,Delivered
+1662, Elizabeth Smith , Elizabeth.smith89@gmail.com,(746) 329-5494,Austin ,TX,Desk Lamp,Furniture,22.3,4,11/13/2024,Delivered
+1044,David Silva,DAVID.SILVA148@OUTLOOK.COM ,7997616327,Dallas,TX,Notebook Set,Office Supplies,8.99,2,3/17/2024,Delivered
+1504, Richard Rodriguez ,RICHARD.RODRIGUEZ30@YAHOO.COM,4926338973,Philadelphia,PA,Desk Lamp,Furniture,22.3,5,08-02-2023,Pending
+1081,michael garcia,MICHAEL.GARCIA170@COMPANY.CO ,356-978-2234,San Diego,CA,Notebook Set,Office Supplies,8.99,4,2024-01-18,Shipped
+1465,Richard Chen, RICHARD.CHEN66@GMAIL.COM,2209837232,Austin ,TX,USB-C Cable 6ft,Electronics,9.5,5,15-06-2023,SHIPPED
+1441,William Kelly,William.kelly118@gmail.com,5895248994,San Antonio,TX,Standing Desk,Furniture,249.0,1,11-12-2023,cancelled
+1187,David Wilson,David.wilson68@company.co,,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,4,2023-08-05,Delivered
+1663,ROBERT CHEN,Robert.Chen92@outlook.com,9022543485,Dallas,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,15-10-2023,Delivered
+1085,Wei Patel, Wei.patel111@outlook.com,3392715526,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,3,07-04-2024,Shipped
+1655,RICHARD SILVA, RICHARD.SILVA162@YAHOO.COM,207-409-5938,New York,NY,USB-C Cable 6ft,Electronics,9.5,2,3/19/2023,shipped
+1375,SOFIA RODRIGUEZ,Sofia.rodriguez123@outlook.com ,4618821153,Philadelphia,PA,Desk Lamp,Furniture,22.3,2,24-08-2024,SHIPPED
+1646,DAVID KELLY, David.Kelly24@company.co,,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,2,17-07-2023,Pending
+1306, Michael Rodriguez ,Michael.Rodriguez95@gmail.com,283-360-4929,Dallas,TX,Office Chair,Furniture,129.99,1,3/2/24,shipped
+1517, William Silva , William.silva52@outlook.com,+18793275920,houston,TX,Notebook Set,Office Supplies,8.99,2,7/6/2024,Shipped
+1312,john silva,John.Silva142@outlook.com,+14833483129,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,3,23-01-2024,SHIPPED
+1486, Mary Martinez , Mary.Martinez129@yahoo.com,,Philadelphia,PA,Yoga  Mat,Fitness,24.0,5,1/14/23,Cancelled
+1170, Barbara Murphy , Barbara.Murphy48@gmail.com,609.895.9785,San Antonio,TX,Bluetooth Speaker,Electronics,45.0,5,2023-05-08,cancelled
+1054,RICHARD RODRIGUEZ,Richard.Rodriguez9@outlook.com,,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,4,7/26/2024,delivered
+1237,OLIVIA DAVIS,Olivia.davis164@company.co,(772) 884-6802,San Antonio,TX,Notebook Set,Office Supplies,8.99,5,2024-11-11,cancelled
+1451,PRIYA SILVA,N/A,5725815634,Los Angeles,CA,Ballpoint Pens (12pk),Office Supplies,6.49,2,2/2/2024,Cancelled
+1204,Richard Martinez,Richard.martinez179@gmail.com ,941.872.3463,Houston,TX,USB-C Cable 6ft,Electronics,9.5,2,22-07-2023,SHIPPED
+1247,JOSEPH SILVA, Joseph.Silva36@outlook.com,3022759808,San Diego,CA,USB-C Cable 6ft,Electronics,9.5,2,2023-04-04,Cancelled
+1062,barbara hernandez,Barbara.Hernandez113@outlook.com ,9817567180,San Antonio,TX,wireless mouse,electronics,19.99,2,9/15/23,SHIPPED
+1465,Richard Chen, RICHARD.CHEN66@GMAIL.COM,2209837232,Austin ,TX,USB-C Cable 6ft,Electronics,9.5,5,15-06-2023,SHIPPED
+1507, Robert Chen ,Robert.Chen92@outlook.com,,Dallas,TX,Office Chair,Furniture,129.99,3,2023-11-20,Delivered
+1226, Michael Jones , Michael.Jones154@outlook.com,693.429.2773,Dallas,TX,Standing Desk,Furniture,249.0,5,12/24/2023,Delivered
+1009,ARJUN DAVIS, Arjun.Davis98@gmail.com,(352) 472-3330,Dallas,TX,wireless mouse,electronics,19.99,3,6/4/2024,SHIPPED
+1436,JAMES MARTINEZ,James.Martinez75@yahoo.com ,,San Diego,CA,Notebook Set,Office Supplies,8.99,2,2/14/2024,Cancelled
+1454, Noah Johnson ,Noah.Johnson127@outlook.com ,963-708-5689,San Diego,CA,USB-C Cable 6ft,Electronics,9.5,4,24-01-2024,Cancelled
+1292, Liam Khan ,LIAM.KHAN137@GMAIL.COM ,8019603531,Phoenix,AZ,USB-C Cable 6ft,Electronics,9.5,3,11/17/24,shipped
+1273, Joseph Smith , Joseph.smith16@gmail.com,936-469-9201,Austin ,TX,Yoga  Mat,Fitness,24.0,2,10/2/24,delivered
+1432, Priya Anderson ,PRIYA.ANDERSON60@YAHOO.COM ,7704552988,New York,NY,Standing Desk,Furniture,249.0,4,4/24/2024,shipped
+1462, Fatima Miller , Fatima.Miller141@yahoo.com,9837674394,new york,ny,Office Chair,Furniture,129.99,1,8/18/2024,Shipped
+1547,Susan Smith,Susan.smith165@company.co ,2795208033,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,4,10/21/24,cancelled
+1340,linda davis, Linda.Davis47@outlook.com,875.397.7528,New York,NY,Yoga Mat,Fitness,24.0,5,08-01-2024,Cancelled
+1136,richard martinez,Richard.martinez179@gmail.com ,941.872.3463,Houston,TX,Wireless Mouse,Electronics,19.99,2,9/17/2024,Pending
+1286, David Silva ,DAVID.SILVA148@OUTLOOK.COM ,7997616327,Dallas,TX,wireless mouse,electronics,19.99,3,3/18/2024,delivered
+1476, Sofia Anderson ,Sofia.Anderson135@yahoo.com,(509) 864-7689,Austin ,TX,Yoga Mat,Fitness,24.0,2,9/1/2023,Cancelled
+1647,william gonzalez, William.gonzalez53@company.co,502-767-3085,Austin ,TX,Desk Lamp,Furniture,22.3,4,07-04-2023,Pending
+1151,William Davis,William.Davis35@outlook.com,6053345915,Houston,TX,wireless mouse,electronics,19.99,1,07-03-2024,shipped
+1150, William Silva , William.silva101@gmail.com,,Houston,TX,Desk Lamp,Furniture,22.3,1,3/1/24,Delivered
+1629,Barbara Patel,Barbara.patel145@gmail.com ,311-662-9254,San Diego,CA,Office Chair,Furniture,129.99,3,2023-02-22,Cancelled
+1495,NOAH JOHNSON,Noah.Johnson127@outlook.com ,9637085689,San Diego,CA,Ballpoint Pens (12pk),Office Supplies,6.49,1,5/2/24,Delivered
+1378, Arjun Kelly ,Arjun.Kelly51@company.co ,959.954.4228,Austin ,TX,Yoga Mat,Fitness,24.0,,22-08-2023,SHIPPED
+1048,olivia murphy,Olivia.murphy76@gmail.com,,Chicago,IL,Yoga  Mat,Fitness,24.0,2,12-08-2024,shipped
+1039,sofia sharma,Sofia.sharma103@outlook.com,,new york,ny,Stainless Water Bottle,Fitness,15.75,1,18-10-2023,delivered
+1619, Priya Martinez ,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,USB-C Cable 6ft,Electronics,9.5,3,25-03-2023,Cancelled
+1288,Liam Davis,Liam.davis33@gmail.com,3227835033,Phoenix,AZ,Notebook Set,Office Supplies,8.99,2,4/18/24,Delivered
+1666, William Gonzalez , William.gonzalez53@company.co,502-767-3085,Austin ,TX,Standing Desk,Furniture,249.0,4,2024-03-27,shipped
+1033, William Brown ,WILLIAM.BROWN163@YAHOO.COM ,7099648055,New York,NY,Wireless Mouse,Electronics,19.99,4,08-08-2024,Cancelled
+1625,barbara lopez,Barbara.Lopez121@yahoo.com,3494509702,Phoenix,AZ,Yoga Mat,Fitness,24.0,5,26-06-2023,Delivered
+1617,susan smith,Susan.smith165@company.co ,2795208033,Philadelphia,PA,Desk Lamp,Furniture,22.3,3,3/11/24,Cancelled
+1163,PRIYA SILVA,PRIYA.SILVA177@COMPANY.CO ,5725815634,Los Angeles,CA,Notebook Set,Office Supplies,8.99,3,7/10/2024,SHIPPED
+1240,WEI PATEL, Wei.patel111@outlook.com,3392715526,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,2024-08-23,shipped
+1113,liam khan,LIAM.KHAN137@GMAIL.COM ,8019603531,Phoenix,AZ,Yoga  Mat,Fitness,24.0,2,2023-09-17,delivered
+1086,William Hernandez,WILLIAM.HERNANDEZ71@GMAIL.COM,484.970.7906,Phoenix,AZ,Desk Lamp,Furniture,22.3,5,6/1/2023,cancelled
+1105,JENNIFER SHARMA, Jennifer.sharma62@outlook.com,,Philadelphia,PA,Desk Lamp,Furniture,22.3,2,9/14/2024,cancelled
+1383,LINDA MURPHY,Linda.murphy119@gmail.com ,4944322480,Dallas,TX,Office Chair,Furniture,129.99,2,10/9/24,SHIPPED
+1255,NOAH MURPHY, NOAH.MURPHY157@COMPANY.CO,2939649691,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,2,3/6/23,Pending
+1365, Richard Chen , RICHARD.CHEN66@GMAIL.COM,2209837232,Austin ,TX,Desk Lamp,Furniture,22.3,5,10/19/24,Cancelled
+1182,Barbara Rodriguez,Barbara.rodriguez82@gmail.com,+14868105526,houston,TX,Yoga  Mat,Fitness,24.0,4,8/7/24,Pending
+1320, David Patel , David.patel20@yahoo.com,,San Diego,CA,Office Chair,Furniture,129.99,1,26-06-2023,Shipped
+1651,David Smith, David.Smith3@yahoo.com,914.632.6574,Los Angeles,CA,Yoga Mat,Fitness,24.0,1,4/24/2024,shipped
+1285,MICHAEL SILVA,Michael.silva128@gmail.com ,,Houston,TX,Stainless Water Bottle,Fitness,15.75,4,23-02-2024,Shipped
+1130, Liam Wilson ,Liam.wilson153@gmail.com ,252.494.6119,Austin ,TX,Notebook Set,Office Supplies,8.99,5,11/10/2023,cancelled
+1604, Robert Davis ,Robert.davis37@outlook.com ,4913618179,houston,TX,USB-C Cable 6ft,Electronics,9.5,4,5/12/2023,Shipped
+1198,robert hernandez,Robert.Hernandez22@yahoo.com,8027674770,New York,NY,USB-C Cable 6ft,Electronics,9.5,5,7/14/24,Shipped
+1516,ROBERT SHARMA,ROBERT.SHARMA172@GMAIL.COM ,+18465105500,Philadelphia,PA,Office Chair,Furniture,129.99,1,28-04-2024,Cancelled
+1446,Joseph Smith, Joseph.smith16@gmail.com,936-469-9201,Austin ,TX,Yoga Mat,Fitness,24.0,4,2024-07-06,shipped
+1385,ELIZABETH SMITH, Elizabeth.smith89@gmail.com,(746) 329-5494,Austin ,TX,Notebook Set,Office Supplies,8.99,5,27-07-2023,shipped
+1665,priya silva,PRIYA.SILVA177@COMPANY.CO ,5725815634,Los Angeles,CA,Yoga  Mat,Fitness,24.0,5,2023-12-14,Pending
+1215,WILLIAM GARCIA,William.Garcia158@gmail.com,5199386314,houston,TX,wireless mouse,electronics,19.99,,6/22/2024,Shipped
+1127, Noah Johnson , Noah.johnson26@company.co,8698612612,Dallas,TX,wireless mouse,electronics,19.99,3,3/13/2023,shipped
+1167,susan anderson,SUSAN.ANDERSON96@YAHOO.COM ,(808) 681-5771,Austin ,TX,Stainless Water Bottle,Fitness,15.75,5,8/26/2023,Cancelled
+1460,SOFIA SILVA, Sofia.silva108@gmail.com,+19263626091,Chicago,IL,Standing Desk,Furniture,249.0,4,3/7/24,Pending
+1612, Michael Patel ,Michael.Patel56@outlook.com,953.373.2389,Philadelphia,PA,Yoga  Mat,Fitness,24.0,2,3/7/2023,delivered
+1064,Joseph Smith, Joseph.smith16@gmail.com,9364699201,Austin ,TX,Desk Lamp,Furniture,22.3,1,1/10/2024,SHIPPED
+1134, William Silva , William.silva52@outlook.com,8793275920,houston,TX,USB-C Cable 6ft,Electronics,9.5,5,21-10-2023,cancelled
+1439,DAVID SMITH, David.Smith3@yahoo.com,914.632.6574,Los Angeles,CA,Standing Desk,Furniture,249.0,4,2023-06-10,Shipped
+1605, Liam Smith ,Liam.Smith143@outlook.com,+12155664898,Los Angeles,CA,Wireless Mouse,Electronics,19.99,4,2023-04-21,Pending
+1281,NOAH KHAN,NOAH.KHAN87@COMPANY.CO ,,Austin ,TX,wireless mouse,electronics,19.99,5,12-06-2023,SHIPPED
+1455,priya martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,2,2024-12-04,SHIPPED
+1606, Priya Silva ,PRIYA.SILVA177@COMPANY.CO ,5725815634,Los Angeles,CA,Office Chair,Furniture,129.99,5,10-10-2024,SHIPPED
+1649,Barbara Khan, Barbara.Khan77@outlook.com,+18775792129,Phoenix,AZ,Notebook Set,Office Supplies,8.99,4,5/4/24,SHIPPED
+1338,Wei Johnson,Wei.johnson178@gmail.com ,862.542.2079,Dallas,TX,Notebook Set,Office Supplies,8.99,3,11/1/23,delivered
+1319,Richard Martinez,Richard.martinez179@gmail.com ,941.872.3463,Houston,TX,Notebook Set,Office Supplies,8.99,3,2023-04-20,Delivered
+1223,robert sharma,ROBERT.SHARMA172@GMAIL.COM ,8465105500,Philadelphia,PA,Notebook Set,Office Supplies,8.99,1,11/19/23,Shipped
+1489, Susan Anderson ,SUSAN.ANDERSON96@YAHOO.COM ,8086815771,Austin ,TX,Notebook Set,Office Supplies,8.99,3,1/1/2023,Pending
+1458,william wilson, William.Wilson130@outlook.com,405.335.9837,Los Angeles,CA,Wireless Mouse,Electronics,19.99,3,28-12-2024,cancelled
+1442,DAVID MARTINEZ,David.Martinez156@company.co,559-206-3972,houston,TX,Desk Lamp,Furniture,22.3,5,11-10-2023,Shipped
+1252,WILLIAM HERNANDEZ,WILLIAM.HERNANDEZ71@GMAIL.COM,484.970.7906,Phoenix,AZ,USB-C Cable 6ft,Electronics,9.5,5,2023-12-21,Shipped
+1377,patricia lopez, PATRICIA.LOPEZ152@GMAIL.COM,,Los Angeles,CA,wireless mouse,electronics,19.99,3,2024-02-17,delivered
+1369,joseph rodriguez,JOSEPH.RODRIGUEZ86@YAHOO.COM,,Houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,4,11/5/2024,Cancelled
+1583,susan rodriguez, Susan.Rodriguez138@company.co,9065794559,New York,NY,USB-C Cable 6ft,Electronics,9.5,2,01-01-2024,SHIPPED
+1355, Arjun Kelly ,Arjun.Kelly51@company.co ,959.954.4228,Austin ,TX,Office Chair,Furniture,129.99,,2023-12-21,shipped
+1122,patricia williams,Patricia.Williams4@outlook.com ,2995676635,Phoenix,AZ,wireless mouse,electronics,19.99,2,1/14/2023,delivered
+1621,elizabeth anderson,ELIZABETH.ANDERSON97@YAHOO.COM,,new york,ny,Wireless Mouse,Electronics,19.99,2,21-05-2023,shipped
+1336, David Smith , David.Smith3@yahoo.com,914.632.6574,Los Angeles,CA,Stainless Water Bottle,Fitness,15.75,1,8/1/2024,Delivered
+1225,barbara rodriguez,Barbara.rodriguez82@gmail.com,+14868105526,houston,TX,Desk Lamp,Furniture,22.3,4,13-05-2024,Cancelled
+1608,JESSICA ANDERSON,JESSICA.ANDERSON84@YAHOO.COM ,2955014630,New York,NY,Standing Desk,Furniture,249.0,4,27-03-2023,Shipped
+1564,DAVID SILVA,DAVID.SILVA148@OUTLOOK.COM ,7997616327,Dallas,TX,Notebook Set,Office Supplies,8.99,5,5/10/23,Delivered
+1322,joseph wilson,JOSEPH.WILSON160@OUTLOOK.COM,(420) 973-9394,Houston,TX,USB-C Cable 6ft,Electronics,9.5,5,11/19/24,cancelled
+1372,Jessica Brown,JESSICA.BROWN78@YAHOO.COM,,Phoenix,AZ,Standing Desk,Furniture,249.0,3,7/3/2024,Pending
+1603,Linda Davis, Linda.Davis47@outlook.com,875.397.7528,New York,NY,Yoga Mat,Fitness,24.0,2,10-03-2024,delivered
+1141, Wei Kelly ,WEI.KELLY81@YAHOO.COM,544.229.9098,Phoenix,AZ,Yoga  Mat,Fitness,24.0,1,9/22/2023,Delivered
+1174,Patricia Kelly,PATRICIA.KELLY15@OUTLOOK.COM,9684736573,San Antonio,TX,USB-C Cable 6ft,Electronics,9.5,1,2023-09-14,cancelled
+1536,jessica martinez,Jessica.Martinez131@yahoo.com ,5463178673,Austin ,TX,wireless mouse,electronics,19.99,5,15-02-2024,delivered
+1408,SOFIA MILLER,SOFIA.MILLER175@GMAIL.COM,8196879214,houston,TX,Office Chair,Furniture,129.99,3,2023-05-07,shipped
+1235,Patricia Kelly,Patricia.kelly134@yahoo.com,,Chicago,IL,Yoga Mat,Fitness,24.0,2,2024-07-18,Pending
+1129,susan miller, SUSAN.MILLER25@COMPANY.CO,299.874.8062,new york,ny,USB-C Cable 6ft,Electronics,9.5,1,7/11/2023,delivered
+1198,robert hernandez,Robert.Hernandez22@yahoo.com,8027674770,New York,NY,USB-C Cable 6ft,Electronics,9.5,5,7/14/24,Shipped
+1176,LIAM DAVIS,Liam.Davis44@yahoo.com,+13055627658,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,2,1/14/23,Delivered
+1469,noah kelly,NOAH.KELLY132@GMAIL.COM ,7705742479,Phoenix,AZ,Yoga  Mat,Fitness,24.0,3,6/6/2023,SHIPPED
+1006,robert martinez,Robert.Martinez173@outlook.com ,662.238.1932,Philadelphia,PA,Notebook Set,Office Supplies,8.99,4,7/17/2024,Delivered
+1350,DAVID SMITH, David.Smith3@yahoo.com,914.632.6574,Los Angeles,CA,Yoga  Mat,Fitness,24.0,4,4/3/23,Cancelled
+1659,elizabeth anderson,ELIZABETH.ANDERSON97@YAHOO.COM,,new york,ny,Office Chair,Furniture,129.99,3,2024-07-18,Pending
+1181, Joseph Khan ,Joseph.khan5@outlook.com,,new york,ny,Stainless Water Bottle,Fitness,15.75,3,8/28/2023,SHIPPED
+1411, Patricia Kelly ,PATRICIA.KELLY15@OUTLOOK.COM,(968) 473-6573,San Antonio,TX,Bluetooth Speaker,Electronics,45.0,4,5/27/2024,Cancelled
+1669,James Martinez, James.martinez112@company.co,505-801-9022,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,5,2/10/23,shipped
+1565,Jennifer Chen,JENNIFER.CHEN49@OUTLOOK.COM ,,Houston,TX,Stainless Water Bottle,Fitness,15.75,4,2024-12-14,shipped
+1360, Liam Khan ,Liam.Khan1@gmail.com,(804) 632-1520,new york,ny,Yoga Mat,Fitness,24.0,5,2023-01-06,Pending
+1554,joseph rodriguez,N/A,371-820-2876,houston,TX,Standing Desk,Furniture,249.0,4,21-03-2024,SHIPPED
+1238,olivia williams, Olivia.Williams6@yahoo.com,8774335741,New York,NY,Desk Lamp,Furniture,22.3,3,10-01-2023,shipped
+1614,Patricia Kelly,Patricia.kelly134@yahoo.com,+16822256374,Chicago,IL,Notebook Set,Office Supplies,8.99,4,3/5/2023,cancelled
+1493,noah hernandez,N/A,5419973754,Chicago,IL,Bluetooth Speaker,Electronics,45.0,5,2024-01-23,Pending
+1209,James Martinez,James.Martinez75@yahoo.com ,,San Diego,CA,Yoga  Mat,Fitness,24.0,4,28-03-2023,Pending
+1440,Susan Murphy,Susan.murphy117@company.co,276.680.5342,Los Angeles,CA,Notebook Set,Office Supplies,8.99,5,8/25/23,SHIPPED
+1578,SUSAN RODRIGUEZ, Susan.Rodriguez138@company.co,9065794559,New York,NY,USB-C Cable 6ft,Electronics,9.5,3,5/25/2023,delivered
+1611, Michael Patel ,Michael.Patel56@outlook.com,953.373.2389,Philadelphia,PA,Yoga  Mat,Fitness,24.0,2,3/7/2023,delivered
+1093, Elizabeth Anderson ,ELIZABETH.ANDERSON97@YAHOO.COM,,new york,ny,USB-C Cable 6ft,Electronics,9.5,2,2023-05-16,SHIPPED
+1407,JENNIFER CHEN,JENNIFER.CHEN49@OUTLOOK.COM ,239.311.8119,Houston,TX,Desk Lamp,Furniture,22.3,3,2023-09-01,Shipped
+1087,david johnson, DAVID.JOHNSON144@GMAIL.COM,9596319619,Los Angeles,CA,Yoga Mat,Fitness,24.0,5,2023-07-25,Pending
+1290,ARJUN RODRIGUEZ,Arjun.Rodriguez12@yahoo.com ,798.638.7543,Austin ,TX,Bluetooth Speaker,Electronics,45.0,1,4/27/24,shipped
+1648,FATIMA RODRIGUEZ,FATIMA.RODRIGUEZ80@YAHOO.COM ,,houston,TX,Wireless Mouse,Electronics,19.99,4,03-04-2024,Shipped
+1295, Priya Patel ,Priya.patel32@gmail.com,258-720-2312,Los Angeles,CA,Standing Desk,Furniture,249.0,2,2024-04-06,shipped
+1249,Susan Miller, SUSAN.MILLER25@COMPANY.CO,299.874.8062,new york,ny,Yoga  Mat,Fitness,24.0,5,16-06-2024,delivered
+1063, Richard Gonzalez ,N/A,+16797415119,San Diego,CA,Desk Lamp,Furniture,22.3,4,7/9/2023,shipped
+1009,ARJUN DAVIS, Arjun.Davis98@gmail.com,(352) 472-3330,Dallas,TX,wireless mouse,electronics,19.99,3,6/4/2024,SHIPPED
+1057, Sofia Sharma ,Sofia.sharma103@outlook.com,681.556.7690,new york,ny,Bluetooth Speaker,Electronics,45.0,5,7/22/2023,SHIPPED
+1165,PRIYA ANDERSON,PRIYA.ANDERSON60@YAHOO.COM ,7704552988,New York,NY,Stainless Water Bottle,Fitness,15.75,3,12/22/24,Shipped
+1183,sofia rodriguez,SOFIA.RODRIGUEZ40@COMPANY.CO,(700) 457-1832,San Antonio,TX,wireless mouse,electronics,19.99,3,9/19/2023,Delivered
+1393,ARJUN DAVIS, Arjun.Davis98@gmail.com,3524723330,Dallas,TX,Stainless Water Bottle,Fitness,15.75,4,2023-11-05,shipped
+1638, Elizabeth Chen ,Elizabeth.Chen94@gmail.com ,5127821986,Phoenix,AZ,wireless mouse,electronics,19.99,1,8/6/2024,Shipped
+1259,liam khan,Liam.Khan1@gmail.com,(804) 632-1520,new york,ny,Desk Lamp,Furniture,22.3,2,4/3/2024,SHIPPED
+1145,MARY MILLER,Mary.Miller107@company.co,7623345719,Houston,TX,Office Chair,Furniture,129.99,1,2/2/23,Pending
+1364,Wei Johnson,Wei.johnson178@gmail.com ,862.542.2079,Dallas,TX,Yoga Mat,Fitness,24.0,5,10/24/23,delivered
+1478,MARY CHEN, Mary.chen31@gmail.com,7552626138,Austin ,TX,Office Chair,Furniture,129.99,1,2024-06-23,shipped
+1020, Olivia Jones , OLIVIA.JONES90@OUTLOOK.COM,(970) 702-2680,Dallas,TX,Notebook Set,Office Supplies,8.99,4,22-02-2024,SHIPPED
+1327, Sofia Davis , SOFIA.DAVIS63@OUTLOOK.COM,650-279-5681,Houston,TX,Yoga Mat,Fitness,24.0,3,2023-10-13,Pending
+1307,Arjun Williams,Arjun.williams64@yahoo.com,,Los Angeles,CA,Bluetooth Speaker,Electronics,45.0,1,7/25/2024,Shipped
+1236, Jessica Anderson ,JESSICA.ANDERSON84@YAHOO.COM ,2955014630,New York,NY,Stainless Water Bottle,Fitness,15.75,3,2024-10-17,shipped
+1597,David Anderson, David.anderson7@yahoo.com,573.366.7065,Dallas,TX,Office Chair,Furniture,129.99,4,5/8/23,Delivered
+1661,William Anderson,WILLIAM.ANDERSON150@COMPANY.CO ,625.947.2557,Phoenix,AZ,wireless mouse,electronics,19.99,4,7/19/2023,cancelled
+1381,Arjun Rodriguez,Arjun.Rodriguez12@yahoo.com ,798.638.7543,Austin ,TX,wireless mouse,electronics,19.99,4,7/13/23,Pending
+1007, Arjun Williams ,Arjun.williams64@yahoo.com,,Los Angeles,CA,Wireless Mouse,Electronics,19.99,4,28-12-2023,shipped
+1118,sofia davis, SOFIA.DAVIS63@OUTLOOK.COM,650-279-5681,Houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,4,10/21/24,cancelled
+1380,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Yoga Mat,Fitness,24.0,2,2024-10-11,SHIPPED
+1197,Elizabeth Kelly,Elizabeth.Kelly161@outlook.com,,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,3,8/9/2023,SHIPPED
+1561, Priya Patel ,Priya.patel32@gmail.com,258-720-2312,Los Angeles,CA,Desk Lamp,Furniture,22.3,5,17-02-2024,SHIPPED
+1177,Patricia Lopez, PATRICIA.LOPEZ152@GMAIL.COM,,Los Angeles,CA,Yoga  Mat,Fitness,24.0,3,18-07-2024,delivered
+1074,MARY HERNANDEZ,Mary.Hernandez10@outlook.com ,4742674456,Phoenix,AZ,wireless mouse,electronics,19.99,2,28-04-2024,Shipped
+1412,ARJUN KELLY,Arjun.Kelly51@company.co ,959.954.4228,Austin ,TX,Notebook Set,Office Supplies,8.99,4,2/5/2024,shipped
+1108,william brown,WILLIAM.BROWN163@YAHOO.COM ,7099648055,New York,NY,Stainless Water Bottle,Fitness,15.75,5,04-10-2024,Cancelled
+1549,wei chen, Wei.chen99@outlook.com,,Houston,TX,Bluetooth Speaker,Electronics,45.0,3,2024-10-07,Cancelled
+1325, William Silva , William.silva101@gmail.com,,Houston,TX,Wireless Mouse,Electronics,19.99,1,2024-09-05,delivered
+1406, Susan Martinez , Susan.martinez166@company.co,6142216321,new york,ny,Yoga  Mat,Fitness,24.0,3,2/9/24,Delivered
+1362,MICHAEL LOPEZ, Michael.Lopez169@gmail.com,9448603419,houston,TX,Standing Desk,Furniture,249.0,5,2024-12-19,shipped
+1514,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Yoga Mat,Fitness,24.0,1,15-02-2023,SHIPPED
+1171,Noah Khan,Noah.Khan39@outlook.com ,,Los Angeles,CA,Wireless Mouse,Electronics,19.99,3,2/10/2024,shipped
+1098,priya silva,PRIYA.SILVA177@COMPANY.CO ,5725815634,Los Angeles,CA,wireless mouse,electronics,19.99,4,10-11-2023,SHIPPED
+1664,James Hernandez,James.hernandez41@company.co ,,Los Angeles,CA,Wireless Mouse,Electronics,19.99,1,7/23/2023,cancelled
+1639,priya silva,PRIYA.SILVA177@COMPANY.CO ,5725815634,Los Angeles,CA,Ballpoint Pens (12pk),Office Supplies,6.49,4,12/13/23,Shipped
+1030,MICHAEL SILVA,Michael.silva128@gmail.com ,,Houston,TX,Wireless Mouse,Electronics,19.99,1,3/6/2024,Pending
+1261,Joseph Williams,Joseph.williams105@gmail.com ,4585312899,houston,TX,Wireless Mouse,Electronics,19.99,2,10/19/2023,Shipped
+1502,DAVID ANDERSON, David.anderson7@yahoo.com,573.366.7065,Dallas,TX,Yoga  Mat,Fitness,24.0,3,2023-12-16,shipped
+1535,ROBERT SILVA, Robert.Silva122@yahoo.com,8348994945,Phoenix,AZ,Yoga  Mat,Fitness,24.0,2,17-04-2024,Shipped
+1520,Olivia Jones, OLIVIA.JONES90@OUTLOOK.COM,(970) 702-2680,Dallas,TX,Notebook Set,Office Supplies,8.99,5,17-05-2024,cancelled
+1342,DAVID ANDERSON, David.anderson7@yahoo.com,573.366.7065,Dallas,TX,Desk Lamp,Furniture,22.3,3,2023-06-13,cancelled
+1268,Jennifer Hernandez,Jennifer.hernandez104@company.co,,Phoenix,AZ,Yoga  Mat,Fitness,24.0,2,2023-10-17,cancelled
+1010,patricia anderson, Patricia.Anderson120@outlook.com,9105061474,Los Angeles,CA,Standing Desk,Furniture,249.0,2,2023-10-01,delivered
+1448,Joseph Khan,Joseph.khan5@outlook.com,,new york,ny,Yoga  Mat,Fitness,24.0,2,4/27/24,Pending
+1060,susan kelly,Susan.kelly34@yahoo.com ,778.735.6183,San Diego,CA,Office Chair,Furniture,129.99,2,7/23/2024,Delivered
+1157,SOFIA ANDERSON,Sofia.Anderson135@yahoo.com,(509) 864-7689,Austin ,TX,Stainless Water Bottle,Fitness,15.75,5,08-02-2023,Shipped
+1428,richard rodriguez,Richard.Rodriguez9@outlook.com,,Dallas,TX,Notebook Set,Office Supplies,8.99,2,27-11-2024,cancelled
+1570,JENNIFER WILLIAMS, Jennifer.williams124@company.co,,Philadelphia,PA,Wireless Mouse,Electronics,19.99,2,1/10/2024,SHIPPED
+1253,DAVID SILVA,DAVID.SILVA148@OUTLOOK.COM ,7997616327,Dallas,TX,Notebook Set,Office Supplies,8.99,4,9/9/2024,Pending
+1600,jessica williams,Jessica.williams13@company.co,,New York,NY,Yoga  Mat,Fitness,24.0,4,10/25/2024,Shipped
+1623, Robert Sharma ,ROBERT.SHARMA172@GMAIL.COM ,8465105500,Philadelphia,PA,Stainless Water Bottle,Fitness,15.75,3,23-04-2023,Shipped
+1537,PATRICIA WILLIAMS,Patricia.Williams4@outlook.com ,+12995676635,Phoenix,AZ,wireless mouse,electronics,19.99,4,7/2/23,delivered
+1382,fatima anderson, Fatima.Anderson171@outlook.com,,Dallas,TX,Desk Lamp,Furniture,22.3,1,2024-02-27,Cancelled
+1472,WILLIAM WILLIAMS,WILLIAM.WILLIAMS176@COMPANY.CO ,861-376-1641,San Antonio,TX,Yoga Mat,Fitness,24.0,3,2024-03-03,shipped
+1148,noah khan,Noah.Khan39@outlook.com ,,Los Angeles,CA,wireless mouse,electronics,19.99,2,14-06-2023,Delivered
+1022,Fatima Davis,Fatima.Davis155@outlook.com,+17749851430,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,4,08-02-2024,cancelled
+1162, William Anderson ,WILLIAM.ANDERSON150@COMPANY.CO ,625.947.2557,Phoenix,AZ,wireless mouse,electronics,19.99,3,3/6/24,Pending
+1321,Robert Sharma,Robert.sharma19@company.co,978-745-3060,new york,ny,Yoga Mat,Fitness,24.0,5,12/8/2024,Delivered
+1331, David Patel ,DAVID.PATEL100@GMAIL.COM ,+17056482317,San Antonio,TX,USB-C Cable 6ft,Electronics,9.5,2,8/19/23,delivered
+1505,PRIYA ANDERSON,PRIYA.ANDERSON60@YAHOO.COM ,7704552988,New York,NY,Bluetooth Speaker,Electronics,45.0,2,3/7/24,cancelled
+1026, Robert Hernandez ,Robert.Hernandez22@yahoo.com,+18027674770,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,3,18-09-2024,SHIPPED
+1293, Elizabeth Kelly ,Elizabeth.Kelly161@outlook.com,,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,2,2024-11-20,shipped
+1190, Joseph Rodriguez ,JOSEPH.RODRIGUEZ86@YAHOO.COM,,Houston,TX,Yoga  Mat,Fitness,24.0,3,11/23/2024,SHIPPED
+1315,FATIMA MILLER, Fatima.Miller141@yahoo.com,9837674394,new york,ny,USB-C Cable 6ft,Electronics,9.5,1,27-05-2024,Cancelled
+1211, David Wilson ,David.wilson68@company.co,,Philadelphia,PA,Standing Desk,Furniture,249.0,1,3/4/24,Cancelled
+1328,William Williams,WILLIAM.WILLIAMS176@COMPANY.CO ,8613761641,San Antonio,TX,Standing Desk,Furniture,249.0,5,2024-01-24,Shipped
+1302, Wei Chen , Wei.chen99@outlook.com,,Houston,TX,Bluetooth Speaker,Electronics,45.0,2,21-07-2023,delivered
+1562,SUSAN RODRIGUEZ, Susan.Rodriguez138@company.co,9065794559,New York,NY,Notebook Set,Office Supplies,8.99,3,2023-12-14,Pending
+1124,Linda Jones,Linda.Jones59@yahoo.com ,9042052746,Dallas,TX,Bluetooth Speaker,Electronics,45.0,1,4/16/2023,Delivered
+1155,WILLIAM DAVIS,William.Davis35@outlook.com,6053345915,Houston,TX,Bluetooth Speaker,Electronics,45.0,2,7/26/24,Cancelled
+1265,MARY MARTINEZ, Mary.Martinez129@yahoo.com,,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,4,2023-03-16,shipped
+1629,Barbara Patel,Barbara.patel145@gmail.com ,311-662-9254,San Diego,CA,Office Chair,Furniture,129.99,3,2023-02-22,Cancelled
+1195,Wei Wilson, Wei.Wilson149@company.co,9183174522,new york,ny,Notebook Set,Office Supplies,8.99,5,4/17/23,delivered
+1521,LIAM SMITH,Liam.Smith143@outlook.com,,Los Angeles,CA,Wireless Mouse,Electronics,19.99,5,17-03-2024,Cancelled
+1594,susan martinez, Susan.martinez166@company.co,6142216321,new york,ny,Wireless Mouse,Electronics,19.99,3,5/4/24,Pending
+1512,Jessica Brown,JESSICA.BROWN78@YAHOO.COM,,Phoenix,AZ,Stainless Water Bottle,Fitness,15.75,5,3/8/23,Pending
+1139,RICHARD GONZALEZ,Richard.gonzalez14@gmail.com ,6797415119,San Diego,CA,Office Chair,Furniture,129.99,5,2023-03-09,Delivered
+1453, Liam Smith ,Liam.Smith143@outlook.com,2155664898,Los Angeles,CA,Standing Desk,Furniture,249.0,1,3/12/2024,delivered
+1636,LIAM DAVIS,Liam.Davis44@yahoo.com,3055627658,Dallas,TX,Bluetooth Speaker,Electronics,45.0,2,2023-08-13,cancelled
+1196, Priya Smith ,Priya.Smith38@outlook.com,7675062697,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,2,15-10-2023,SHIPPED
+1285,MICHAEL SILVA,Michael.silva128@gmail.com ,,Houston,TX,Stainless Water Bottle,Fitness,15.75,4,23-02-2024,Shipped
+1330,DAVID JOHNSON, DAVID.JOHNSON144@GMAIL.COM,(959) 631-9619,Los Angeles,CA,USB-C Cable 6ft,Electronics,9.5,3,1/22/24,shipped
+1337,RICHARD CHEN, RICHARD.CHEN66@GMAIL.COM,2209837232,Austin ,TX,Desk Lamp,Furniture,22.3,4,19-07-2023,SHIPPED
+1059,patricia kelly,PATRICIA.KELLY15@OUTLOOK.COM,9684736573,San Antonio,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,2024-03-13,delivered
+1189,Jennifer Silva,JENNIFER.SILVA159@COMPANY.CO ,8902835458,New York,NY,Bluetooth Speaker,Electronics,45.0,5,22-09-2024,delivered
+1166,Sofia Patel, Sofia.patel17@gmail.com,403-356-7126,San Diego,CA,Stainless Water Bottle,Fitness,15.75,3,1/13/24,SHIPPED
+1052,sofia rodriguez,SOFIA.RODRIGUEZ40@COMPANY.CO,(700) 457-1832,San Antonio,TX,Bluetooth Speaker,Electronics,45.0,4,2024-05-11,shipped
+1154,William Hernandez,WILLIAM.HERNANDEZ71@GMAIL.COM,484.970.7906,Phoenix,AZ,Office Chair,Furniture,129.99,2,11/10/24,Cancelled
+1498,PATRICIA WILLIAMS,Patricia.Williams4@outlook.com ,2995676635,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,5,22-04-2024,cancelled
+1082,michael smith,Michael.smith73@gmail.com,3564443068,San Diego,CA,Wireless Mouse,Electronics,19.99,5,2/4/2023,Delivered
+1414,david wilson,David.wilson68@company.co,,Philadelphia,PA,USB-C Cable 6ft,Electronics,9.5,3,9/23/24,cancelled
+1202,LIAM GARCIA, LIAM.GARCIA54@GMAIL.COM,+17825087653,San Diego,CA,Standing Desk,Furniture,249.0,1,6/23/23,delivered
+1314,james martinez, James.martinez112@company.co,505-801-9022,Austin ,TX,Desk Lamp,Furniture,22.3,3,06-10-2024,Cancelled
+1117,JESSICA MARTINEZ,Jessica.Martinez131@yahoo.com ,5463178673,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,1/9/2023,Delivered
+1156,BARBARA RODRIGUEZ,Barbara.rodriguez82@gmail.com,+14868105526,houston,TX,Bluetooth Speaker,Electronics,45.0,3,2023-06-20,delivered
+1213,BARBARA PATEL,Barbara.patel145@gmail.com ,3116629254,San Diego,CA,Ballpoint Pens (12pk),Office Supplies,6.49,4,6/20/2023,Cancelled
+1366,LINDA JONES,Linda.Jones59@yahoo.com ,9042052746,Dallas,TX,Standing Desk,Furniture,249.0,3,2024-02-01,Delivered
+1470,Liam Smith,Liam.Smith143@outlook.com,2155664898,Los Angeles,CA,Notebook Set,Office Supplies,8.99,5,8/3/2023,Shipped
+1051,William Brown,WILLIAM.BROWN163@YAHOO.COM ,7099648055,New York,NY,Yoga Mat,Fitness,24.0,1,2024-06-23,SHIPPED
+1374,MICHAEL WILSON,MICHAEL.WILSON55@COMPANY.CO ,8218706279,San Diego,CA,Desk Lamp,Furniture,22.3,3,6/26/2023,shipped
+1460,SOFIA SILVA, Sofia.silva108@gmail.com,+19263626091,Chicago,IL,Standing Desk,Furniture,249.0,4,3/7/24,Pending
+1506,Joseph Martinez, Joseph.martinez125@company.co,5936942747,Chicago,IL,Desk Lamp,Furniture,22.3,3,9/14/2024,delivered
+1580,Barbara Rodriguez,Barbara.rodriguez82@gmail.com,+14868105526,houston,TX,Yoga  Mat,Fitness,24.0,4,4/8/23,cancelled
+1256, Linda Jones ,Linda.Jones59@yahoo.com ,9042052746,Dallas,TX,wireless mouse,electronics,19.99,3,22-01-2023,cancelled
+1532,DAVID WILSON,DAVID.WILSON110@YAHOO.COM,6834498483,Philadelphia,PA,Standing Desk,Furniture,249.0,3,11/4/2024,Cancelled
+1513, Susan Kelly ,Susan.kelly34@yahoo.com ,778.735.6183,San Diego,CA,Yoga  Mat,Fitness,24.0,2,03-04-2024,SHIPPED
+1186, James Hernandez ,James.hernandez41@company.co ,,Los Angeles,CA,Yoga  Mat,Fitness,24.0,,7/2/2023,Delivered
+1515,Liam Wilson,Liam.wilson153@gmail.com ,252.494.6119,Austin ,TX,Yoga  Mat,Fitness,24.0,2,2023-03-19,cancelled
+1444,JENNIFER WILSON,JENNIFER.WILSON29@YAHOO.COM,(692) 418-7570,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,4,6/12/24,delivered
+1368,Mary Martinez, Mary.Martinez129@yahoo.com,,Philadelphia,PA,Desk Lamp,Furniture,22.3,3,11/11/24,Shipped
+1415,Sofia Patel, Sofia.patel17@gmail.com,4033567126,San Diego,CA,Desk Lamp,Furniture,22.3,2,2024-12-27,Pending
+1140,david smith, David.Smith3@yahoo.com,914.632.6574,Los Angeles,CA,Yoga Mat,Fitness,24.0,1,2023-07-05,cancelled
+1463,Olivia Murphy,Olivia.murphy76@gmail.com,,Chicago,IL,Ballpoint Pens (12pk),Office Supplies,6.49,4,7/6/2024,Shipped
+1610,jennifer wilson,JENNIFER.WILSON29@YAHOO.COM,(692) 418-7570,Philadelphia,PA,USB-C Cable 6ft,Electronics,9.5,3,2024-11-19,Shipped
+1084,Robert Wilson, ROBERT.WILSON167@GMAIL.COM,4496467560,new york,ny,Ballpoint Pens (12pk),Office Supplies,6.49,1,2024-07-13,Shipped
+1586, Wei Kelly ,WEI.KELLY81@YAHOO.COM,544.229.9098,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,3,08-05-2024,Delivered
+1250,barbara patel,Barbara.patel145@gmail.com ,311-662-9254,San Diego,CA,Stainless Water Bottle,Fitness,15.75,3,1/11/2023,cancelled
+1526,Robert Davis,Robert.davis37@outlook.com ,+14913618179,houston,TX,wireless mouse,electronics,19.99,3,06-05-2023,Delivered
+1167,susan anderson,SUSAN.ANDERSON96@YAHOO.COM ,(808) 681-5771,Austin ,TX,Stainless Water Bottle,Fitness,15.75,5,8/26/2023,Cancelled
+1488,joseph davis,Joseph.Davis28@gmail.com,6537632604,new york,ny,Notebook Set,Office Supplies,8.99,4,2023-09-28,cancelled
+1557,Noah Kelly,NOAH.KELLY132@GMAIL.COM ,7705742479,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,3,2023-03-25,shipped
+1276,olivia jones, OLIVIA.JONES90@OUTLOOK.COM,(970) 702-2680,Dallas,TX,Ballpoint Pens (12pk),Office Supplies,6.49,4,2023-09-01,delivered
+1299, Robert Anderson , ROBERT.ANDERSON58@COMPANY.CO,,Phoenix,AZ,wireless mouse,electronics,19.99,4,09-07-2023,Shipped
+1180,William Garcia,William.Garcia158@gmail.com,5199386314,houston,TX,Notebook Set,Office Supplies,8.99,4,2023-06-23,Cancelled
+1291, Robert Chen ,Robert.Chen92@outlook.com,9022543485,Dallas,TX,Stainless Water Bottle,Fitness,15.75,5,14-01-2023,Delivered
+1652,james martinez,James.Martinez75@yahoo.com ,,San Diego,CA,Yoga Mat,Fitness,24.0,2,11/2/23,Pending
+1583,susan rodriguez, Susan.Rodriguez138@company.co,9065794559,New York,NY,USB-C Cable 6ft,Electronics,9.5,2,01-01-2024,SHIPPED
+1199,MICHAEL RODRIGUEZ,Michael.Rodriguez95@gmail.com,283-360-4929,Dallas,TX,Wireless Mouse,Electronics,19.99,3,11/1/2023,Pending
+1392, Richard Martinez ,Richard.martinez179@gmail.com ,941.872.3463,Houston,TX,Notebook Set,Office Supplies,8.99,4,7/13/2024,SHIPPED
+1083,Olivia Jones, OLIVIA.JONES90@OUTLOOK.COM,9707022680,Dallas,TX,Yoga  Mat,Fitness,24.0,4,7/15/2023,delivered
+1602,DAVID SMITH, David.Smith3@yahoo.com,914.632.6574,Los Angeles,CA,Notebook Set,Office Supplies,8.99,1,17-11-2024,cancelled
+1097,DAVID PATEL,DAVID.PATEL100@GMAIL.COM ,+17056482317,San Antonio,TX,Stainless Water Bottle,Fitness,15.75,1,11/25/23,Delivered
+1289,PRIYA SMITH,Priya.Smith38@outlook.com,7675062697,Dallas,TX,Office Chair,Furniture,129.99,1,8/5/24,delivered
+1384,Robert Davis,Robert.davis83@company.co ,,Austin ,TX,Office Chair,Furniture,129.99,4,8/4/24,Cancelled
+1233,richard rodriguez,RICHARD.RODRIGUEZ30@YAHOO.COM,4926338973,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,1,9/9/2023,delivered
+1538, Fatima Anderson , Fatima.Anderson171@outlook.com,,Dallas,TX,Office Chair,Furniture,129.99,5,2023-03-07,delivered
+1207,patricia anderson, Patricia.anderson133@company.co,8889665295,houston,TX,Yoga Mat,Fitness,24.0,3,3/2/2024,Cancelled
+1002,Priya Patel,Priya.patel32@gmail.com,2587202312,Los Angeles,CA,Ballpoint Pens (12pk),Office Supplies,6.49,5,12-09-2023,delivered
+1100,Patricia Lopez, PATRICIA.LOPEZ152@GMAIL.COM,,Los Angeles,CA,Ballpoint Pens (12pk),Office Supplies,6.49,1,11/22/2024,Shipped
+1632,ROBERT DAVIS,Robert.davis83@company.co ,,Austin ,TX,Bluetooth Speaker,Electronics,45.0,4,3/18/24,shipped
+1571,Mary Chen, Mary.chen31@gmail.com,(755) 262-6138,Austin ,TX,Desk Lamp,Furniture,22.3,3,7/16/24,Pending
+1243,fatima davis,Fatima.Davis155@outlook.com,7749851430,Phoenix,AZ,wireless mouse,electronics,19.99,3,7/27/23,SHIPPED
+1626,joseph wilson, Joseph.wilson106@company.co,+13927306927,New York,NY,Yoga Mat,Fitness,24.0,4,05-06-2023,Shipped
+1300,susan kelly,Susan.kelly34@yahoo.com ,778.735.6183,San Diego,CA,Stainless Water Bottle,Fitness,15.75,3,16-12-2024,Shipped
+1492,Priya Anderson,PRIYA.ANDERSON60@YAHOO.COM ,7704552988,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,3,5/4/2024,Shipped
+1061, David Patel , David.patel20@yahoo.com,,San Diego,CA,Desk Lamp,Furniture,22.3,4,10/4/2023,SHIPPED
+1464,sofia patel, Sofia.patel17@gmail.com,4033567126,San Diego,CA,Notebook Set,Office Supplies,8.99,3,2024-05-21,Pending
+1234, Noah Khan ,Noah.Khan39@outlook.com ,,Los Angeles,CA,Wireless Mouse,Electronics,19.99,2,11/20/24,Pending
+1346, Joseph Williams ,Joseph.williams105@gmail.com ,4585312899,houston,TX,Yoga  Mat,Fitness,24.0,4,4/4/2023,Shipped
+1087,david johnson, DAVID.JOHNSON144@GMAIL.COM,9596319619,Los Angeles,CA,Yoga Mat,Fitness,24.0,5,2023-07-25,Pending
+1585,sofia patel, Sofia.patel17@gmail.com,403-356-7126,San Diego,CA,Yoga  Mat,Fitness,24.0,1,3/24/24,Delivered
+1070,michael lopez, Michael.Lopez169@gmail.com,9448603419,houston,TX,Desk Lamp,Furniture,22.3,2,5/2/23,Cancelled
+1656,SUSAN KHAN,SUSAN.KHAN42@GMAIL.COM ,,New York,NY,Standing Desk,Furniture,249.0,2,20-03-2023,delivered
+1533,david wilson,David.wilson68@company.co,,Philadelphia,PA,Notebook Set,Office Supplies,8.99,5,7/26/2024,cancelled
+1091,liam davis,Liam.davis33@gmail.com,3227835033,Phoenix,AZ,wireless mouse,electronics,19.99,2,2024-09-18,Shipped
+1457,William Hernandez,WILLIAM.HERNANDEZ71@GMAIL.COM,484.970.7906,Phoenix,AZ,Yoga Mat,Fitness,24.0,1,11/22/23,Delivered
+1103, Joseph Silva , Joseph.Silva36@outlook.com,3022759808,San Diego,CA,Stainless Water Bottle,Fitness,15.75,3,17-04-2024,Cancelled
+1178,david smith, David.Smith3@yahoo.com,914.632.6574,Los Angeles,CA,Standing Desk,Furniture,249.0,5,2023-07-05,shipped
+1525,Wei Patel, Wei.patel111@outlook.com,3392715526,Austin ,TX,wireless mouse,electronics,19.99,4,6/23/24,Cancelled
+1593,PATRICIA ANDERSON, Patricia.anderson133@company.co,+18889665295,houston,TX,Standing Desk,Furniture,249.0,3,12/22/24,Shipped
+1116, William Silva , William.silva52@outlook.com,8793275920,houston,TX,Wireless Mouse,Electronics,19.99,5,18-10-2023,delivered
+1005, Priya Anderson ,PRIYA.ANDERSON60@YAHOO.COM ,7704552988,New York,NY,Office Chair,Furniture,129.99,5,18-04-2023,Cancelled
+1511,patricia anderson,Patricia.Anderson140@outlook.com,(878) 417-1349,new york,ny,Standing Desk,Furniture,249.0,3,1/21/23,SHIPPED
+1592,DAVID JOHNSON, DAVID.JOHNSON144@GMAIL.COM,(959) 631-9619,Los Angeles,CA,Ballpoint Pens (12pk),Office Supplies,6.49,5,10/5/2023,delivered
+1017, Arjun Rodriguez ,Arjun.Rodriguez12@yahoo.com ,798.638.7543,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,3,6/14/24,cancelled
+1618,WILLIAM BROWN,WILLIAM.BROWN163@YAHOO.COM ,,New York,NY,Notebook Set,Office Supplies,8.99,1,4/15/23,Delivered
+1313,john silva,John.Silva142@outlook.com,+14833483129,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,3,23-01-2024,SHIPPED
+1263,sofia rodriguez,Sofia.rodriguez123@outlook.com ,4618821153,Philadelphia,PA,USB-C Cable 6ft,Electronics,9.5,2,27-10-2023,SHIPPED
+1088,robert sharma,Robert.sharma19@company.co,9787453060,new york,ny,Stainless Water Bottle,Fitness,15.75,5,1/21/24,Cancelled
+1153,priya martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,4,7/22/2024,Pending
+1433,JOSEPH WILLIAMS,Joseph.williams105@gmail.com ,4585312899,houston,TX,Yoga Mat,Fitness,24.0,4,2024-08-19,cancelled
+1419,BARBARA MURPHY, Barbara.Murphy48@gmail.com,609.895.9785,San Antonio,TX,USB-C Cable 6ft,Electronics,9.5,1,12/19/23,cancelled
+1443, William Garcia ,William.Garcia158@gmail.com,+15199386314,houston,TX,Wireless Mouse,Electronics,19.99,3,11/18/2023,SHIPPED
+1046,PATRICIA ANDERSON, Patricia.Anderson120@outlook.com,(910) 506-1474,Los Angeles,CA,Standing Desk,Furniture,249.0,1,9/11/24,Pending
+1449,jennifer williams, Jennifer.williams124@company.co,,Philadelphia,PA,Notebook Set,Office Supplies,8.99,5,19-05-2023,SHIPPED
+1018, Priya Silva ,PRIYA.SILVA177@COMPANY.CO ,5725815634,Los Angeles,CA,Office Chair,Furniture,129.99,3,12/14/23,SHIPPED
+1152,ROBERT SHARMA,N/A,9787453060,new york,ny,Wireless Mouse,Electronics,19.99,1,2024-03-03,Shipped
+1615,Robert Davis,Robert.davis109@outlook.com ,6723203522,new york,ny,Ballpoint Pens (12pk),Office Supplies,6.49,2,10-09-2023,Delivered
+1427,BARBARA LOPEZ,Barbara.Lopez121@yahoo.com,3494509702,Phoenix,AZ,Standing Desk,Furniture,249.0,2,11/9/24,Delivered
+1034,james martinez, James.martinez112@company.co,505-801-9022,Austin ,TX,Bluetooth Speaker,Electronics,45.0,4,20-06-2023,Pending
+1530,Olivia Davis,Olivia.davis164@company.co,(772) 884-6802,San Antonio,TX,Yoga  Mat,Fitness,24.0,3,2024-09-20,cancelled
+1522, Sofia Anderson ,Sofia.Anderson135@yahoo.com,(509) 864-7689,Austin ,TX,Bluetooth Speaker,Electronics,45.0,2,6/2/23,delivered
+1241,ARJUN WILLIAMS,Arjun.williams64@yahoo.com,,Los Angeles,CA,Desk Lamp,Furniture,22.3,1,7/13/24,cancelled
+1347,DAVID WILSON,David.wilson68@company.co,,Philadelphia,PA,Notebook Set,Office Supplies,8.99,5,22-04-2023,shipped
+1582,ROBERT SHARMA,ROBERT.SHARMA172@GMAIL.COM ,8465105500,Philadelphia,PA,wireless mouse,electronics,19.99,2,2024-10-14,Delivered
+1430,SOFIA MILLER,SOFIA.MILLER175@GMAIL.COM,819-687-9214,houston,TX,Office Chair,Furniture,129.99,4,02-11-2023,delivered
+1561, Priya Patel ,Priya.patel32@gmail.com,258-720-2312,Los Angeles,CA,Desk Lamp,Furniture,22.3,5,17-02-2024,SHIPPED
+1160,michael patel,Michael.Patel56@outlook.com,953.373.2389,Philadelphia,PA,Wireless Mouse,Electronics,19.99,5,6/20/2023,Pending
+1239,Liam Khan,LIAM.KHAN137@GMAIL.COM ,8019603531,Phoenix,AZ,Desk Lamp,Furniture,22.3,1,11/21/23,shipped
+1608,JESSICA ANDERSON,JESSICA.ANDERSON84@YAHOO.COM ,2955014630,New York,NY,Standing Desk,Furniture,249.0,4,27-03-2023,Shipped
+1156,BARBARA RODRIGUEZ,Barbara.rodriguez82@gmail.com,+14868105526,houston,TX,Bluetooth Speaker,Electronics,45.0,3,2023-06-20,delivered
+1035,Fatima Johnson, Fatima.johnson102@yahoo.com,681.731.8245,Los Angeles,CA,USB-C Cable 6ft,Electronics,9.5,3,15-04-2023,Cancelled
+1343,joseph wilson,JOSEPH.WILSON160@OUTLOOK.COM,(420) 973-9394,Houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,2,05-10-2024,Pending
+1104, Olivia Gonzalez ,Olivia.Gonzalez115@gmail.com ,8798673492,Phoenix,AZ,Stainless Water Bottle,Fitness,15.75,1,04-12-2023,shipped
+1376,NOAH KELLY,NOAH.KELLY132@GMAIL.COM ,7705742479,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,2,2023-08-13,delivered
+1352,mary hernandez,Mary.Hernandez10@outlook.com ,+14742674456,Phoenix,AZ,Yoga Mat,Fitness,24.0,5,9/13/2023,delivered
+1037, Jessica Martinez ,Jessica.Martinez131@yahoo.com ,5463178673,Austin ,TX,Office Chair,Furniture,129.99,4,1/3/24,Delivered
+1527,patricia kelly,Patricia.kelly134@yahoo.com,+16822256374,Chicago,IL,Notebook Set,Office Supplies,8.99,2,2024-04-25,Pending
+1169,olivia murphy,Olivia.murphy23@gmail.com,434.269.1514,New York,NY,Stainless Water Bottle,Fitness,15.75,5,7/21/23,SHIPPED
+1053,RICHARD RODRIGUEZ,Richard.Rodriguez9@outlook.com,,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,4,7/26/2024,delivered
+1316,Elizabeth Anderson,ELIZABETH.ANDERSON97@YAHOO.COM,,new york,ny,Standing Desk,Furniture,249.0,2,2024-10-08,cancelled
+1435, Priya Silva ,PRIYA.SILVA177@COMPANY.CO ,5725815634,Los Angeles,CA,Notebook Set,Office Supplies,8.99,1,2/28/24,cancelled
+1474,Barbara Khan, Barbara.Khan77@outlook.com,+18775792129,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,1,10/7/2023,Pending
+1063, Richard Gonzalez ,Richard.gonzalez14@gmail.com ,+16797415119,San Diego,CA,Desk Lamp,Furniture,22.3,4,7/9/2023,shipped
+1410,linda murphy,Linda.murphy119@gmail.com ,4944322480,Dallas,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,23-07-2024,SHIPPED
+1040,Patricia Anderson,Patricia.Anderson140@outlook.com,(878) 417-1349,new york,ny,Yoga  Mat,Fitness,24.0,5,13-02-2024,Pending
+1125,Priya Silva,PRIYA.SILVA2@YAHOO.COM ,7744039928,New York,NY,Standing Desk,Furniture,249.0,3,2024-12-05,Delivered
+1233,richard rodriguez,RICHARD.RODRIGUEZ30@YAHOO.COM,,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,1,9/9/2023,delivered
+1206,patricia anderson, Patricia.anderson133@company.co,8889665295,houston,TX,Yoga Mat,Fitness,24.0,3,3/2/2024,Cancelled
+1579,PATRICIA KELLY,PATRICIA.KELLY15@OUTLOOK.COM,(968) 473-6573,San Antonio,TX,Notebook Set,Office Supplies,8.99,3,12/2/24,shipped
+1633, William Silva , William.silva52@outlook.com,8793275920,houston,TX,USB-C Cable 6ft,Electronics,9.5,2,12/22/2024,delivered
+1055, Barbara Patel ,Barbara.patel145@gmail.com ,3116629254,San Diego,CA,Notebook Set,Office Supplies,8.99,1,8/21/2024,Cancelled
+1574,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,3,4/20/2023,Cancelled
+1660,Noah Khan,Noah.Khan39@outlook.com ,,Los Angeles,CA,Yoga Mat,Fitness,24.0,1,8/13/24,Pending
+1337,RICHARD CHEN, RICHARD.CHEN66@GMAIL.COM,2209837232,Austin ,TX,Desk Lamp,Furniture,22.3,4,19-07-2023,SHIPPED
+1051,William Brown,WILLIAM.BROWN163@YAHOO.COM ,7099648055,New York,NY,Yoga Mat,Fitness,24.0,1,2024-06-23,SHIPPED
+1552, Noah Khan ,NOAH.KHAN87@COMPANY.CO ,,Austin ,TX,Stainless Water Bottle,Fitness,15.75,1,2023-12-28,Cancelled
+1216,MARY MARTINEZ, Mary.Martinez129@yahoo.com,,Philadelphia,PA,Office Chair,Furniture,129.99,4,11-08-2023,delivered
+1644,patricia anderson, Patricia.anderson133@company.co,8889665295,houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,2023-08-02,cancelled
+1058,LIAM KHAN,Liam.Khan1@gmail.com,8046321520,new york,ny,Yoga  Mat,Fitness,24.0,4,2024-05-11,delivered
+1560,patricia kelly,PATRICIA.KELLY139@COMPANY.CO,7578606876,houston,TX,Notebook Set,Office Supplies,8.99,5,13-11-2023,shipped
+1212,Robert Silva, Robert.Silva122@yahoo.com,8348994945,Phoenix,AZ,Bluetooth Speaker,Electronics,45.0,2,12/24/2023,shipped
+1345,Sofia Rodriguez,SOFIA.RODRIGUEZ40@COMPANY.CO,(700) 457-1832,San Antonio,TX,Stainless Water Bottle,Fitness,15.75,1,2023-06-27,Pending
+1203,Patricia Lopez, PATRICIA.LOPEZ152@GMAIL.COM,,Los Angeles,CA,Wireless Mouse,Electronics,19.99,1,12/4/24,cancelled
+1490,olivia williams, Olivia.Williams6@yahoo.com,(877) 433-5741,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,3,7/12/24,Pending
+1135,richard gonzalez,Richard.gonzalez14@gmail.com ,+16797415119,San Diego,CA,Yoga Mat,Fitness,24.0,1,20-08-2023,SHIPPED
+1095,william silva, William.silva101@gmail.com,,Houston,TX,Stainless Water Bottle,Fitness,15.75,5,8/11/2024,delivered
+1175,LIAM KHAN,LIAM.KHAN137@GMAIL.COM ,8019603531,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,4,2024-05-03,SHIPPED
+1013,PRIYA KHAN, Priya.khan61@company.co,+15249738251,San Diego,CA,Notebook Set,Office Supplies,8.99,4,2023-09-12,cancelled
+1390, William Silva , William.silva52@outlook.com,8793275920,houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,3,2024-07-23,Shipped
+1395,sofia silva, Sofia.silva108@gmail.com,9263626091,Chicago,IL,Desk Lamp,Furniture,22.3,4,2024-04-06,Cancelled
+1563,mary chen, Mary.chen31@gmail.com,7552626138,Austin ,TX,Wireless Mouse,Electronics,19.99,1,10/24/23,Pending
+1004,PATRICIA LOPEZ, PATRICIA.LOPEZ152@GMAIL.COM,,Los Angeles,CA,Bluetooth Speaker,Electronics,45.0,,12/25/23,Shipped
+1598,Fatima Lopez,FATIMA.LOPEZ85@OUTLOOK.COM ,7667436632,Philadelphia,PA,Desk Lamp,Furniture,22.3,2,2024-02-21,shipped
+1379,Jennifer Silva,JENNIFER.SILVA159@COMPANY.CO ,8902835458,New York,NY,Desk Lamp,Furniture,22.3,5,12-09-2024,SHIPPED
+1591,FATIMA DAVIS,Fatima.Davis155@outlook.com,7749851430,Phoenix,AZ,Yoga Mat,Fitness,24.0,1,2/28/24,SHIPPED
+1255,NOAH MURPHY, NOAH.MURPHY157@COMPANY.CO,2939649691,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,2,3/6/23,Pending
+1422,Patricia Williams,Patricia.Williams4@outlook.com ,+12995676635,Phoenix,AZ,Office Chair,Furniture,129.99,5,2023-12-21,SHIPPED
+1019, David Patel , David.patel20@yahoo.com,,San Diego,CA,Stainless Water Bottle,Fitness,15.75,3,10/23/2024,Cancelled
+1428,richard rodriguez,Richard.Rodriguez9@outlook.com,,Dallas,TX,Notebook Set,Office Supplies,8.99,2,27-11-2024,cancelled
+1284,PATRICIA SHARMA,N/A,654.275.2323,Austin ,TX,Yoga  Mat,Fitness,24.0,4,2023-07-08,cancelled
+1014,Wei Chen, Wei.chen99@outlook.com,,Houston,TX,Stainless Water Bottle,Fitness,15.75,3,2023-02-12,Pending
+1471, Robert Chen ,Robert.Chen92@outlook.com,902-254-3485,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,4,2023-12-10,Delivered
+1357,NOAH HERNANDEZ,Noah.hernandez168@gmail.com ,(541) 997-3754,Chicago,IL,USB-C Cable 6ft,Electronics,9.5,2,02-12-2024,delivered
+1240,WEI PATEL, Wei.patel111@outlook.com,3392715526,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,2024-08-23,shipped
+1398, Fatima Anderson , Fatima.Anderson171@outlook.com,,Dallas,TX,wireless mouse,electronics,19.99,5,6/18/23,Cancelled
+1260,richard rodriguez,RICHARD.RODRIGUEZ30@YAHOO.COM,4926338973,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,2,12/4/24,Cancelled
+1096,ARJUN KELLY,Arjun.Kelly51@company.co ,959.954.4228,Austin ,TX,Office Chair,Furniture,129.99,3,6/10/2024,Pending
+1494,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,wireless mouse,electronics,19.99,4,6/16/2024,delivered
+1065,susan smith,Susan.smith165@company.co ,2795208033,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,3,7/13/2023,Pending
+1133,william silva, William.silva101@gmail.com,,Houston,TX,Desk Lamp,Furniture,22.3,3,12/13/2023,delivered
+1315,FATIMA MILLER, Fatima.Miller141@yahoo.com,9837674394,new york,ny,USB-C Cable 6ft,Electronics,9.5,1,27-05-2024,Cancelled
+1581,wei kelly,WEI.KELLY81@YAHOO.COM,544.229.9098,Phoenix,AZ,Office Chair,Furniture,129.99,5,8/1/2024,Shipped
+1438,Patricia Anderson, Patricia.Anderson120@outlook.com,9105061474,Los Angeles,CA,Standing Desk,Furniture,249.0,5,2024-09-13,Cancelled
+1049, William Silva , William.silva101@gmail.com,,Houston,TX,Stainless Water Bottle,Fitness,15.75,2,23-05-2023,Cancelled
+1356,robert chen,Robert.Chen92@outlook.com,902-254-3485,Dallas,TX,wireless mouse,electronics,19.99,5,2024-07-18,SHIPPED
+1287,patricia khan, PATRICIA.KHAN93@COMPANY.CO,+18208104697,Phoenix,AZ,USB-C Cable 6ft,Electronics,9.5,4,23-07-2024,cancelled
+1123, Susan Jones , Susan.Jones70@outlook.com,3862515262,Philadelphia,PA,wireless mouse,electronics,19.99,3,2023-06-22,cancelled
+1434, Fatima Hernandez ,Fatima.hernandez116@gmail.com,6503029617,new york,ny,USB-C Cable 6ft,Electronics,9.5,4,24-08-2023,delivered
+1444,JENNIFER WILSON,JENNIFER.WILSON29@YAHOO.COM,(692) 418-7570,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,4,6/12/24,delivered
+1138,RICHARD GONZALEZ,Richard.gonzalez14@gmail.com ,6797415119,San Diego,CA,Office Chair,Furniture,129.99,5,2023-03-09,Delivered
+1078, Barbara Patel ,Barbara.patel145@gmail.com ,3116629254,San Diego,CA,Yoga Mat,Fitness,24.0,4,8/24/24,SHIPPED
+1419,BARBARA MURPHY, Barbara.Murphy48@gmail.com,609.895.9785,San Antonio,TX,USB-C Cable 6ft,Electronics,9.5,1,12/19/23,cancelled
+1642,James Hernandez,James.hernandez41@company.co ,,Los Angeles,CA,USB-C Cable 6ft,Electronics,9.5,1,5/4/2024,shipped
+1503,Joseph Smith,N/A,9364699201,Austin ,TX,Bluetooth Speaker,Electronics,45.0,3,12/27/2023,shipped
+1461,susan anderson,SUSAN.ANDERSON96@YAHOO.COM ,8086815771,Austin ,TX,wireless mouse,electronics,19.99,1,7/6/2024,Delivered
+1258,robert sharma,Robert.sharma19@company.co,978-745-3060,new york,ny,Desk Lamp,Furniture,22.3,3,13-09-2024,Cancelled
+1272,PATRICIA ANDERSON,Patricia.Anderson140@outlook.com,8784171349,new york,ny,Notebook Set,Office Supplies,8.99,1,11/1/2023,Cancelled
+1542,Joseph Davis,Joseph.Davis28@gmail.com,(653) 763-2604,new york,ny,Wireless Mouse,Electronics,19.99,2,8/21/2023,cancelled
+1158,PATRICIA SHARMA,Patricia.Sharma147@yahoo.com,654.275.2323,Austin ,TX,Bluetooth Speaker,Electronics,45.0,3,19-04-2024,Shipped
+1269,Fatima Rodriguez,FATIMA.RODRIGUEZ80@YAHOO.COM ,4512885569,houston,TX,Bluetooth Speaker,Electronics,45.0,3,21-07-2024,cancelled
+1329,WEI PATEL,N/A,3392715526,Austin ,TX,Bluetooth Speaker,Electronics,45.0,1,2024-11-25,delivered
+1092,patricia lopez, PATRICIA.LOPEZ152@GMAIL.COM,,Los Angeles,CA,Notebook Set,Office Supplies,8.99,3,2024-05-14,Delivered
+1558,susan khan,SUSAN.KHAN42@GMAIL.COM ,+13142773442,New York,NY,Bluetooth Speaker,Electronics,45.0,1,2023-11-21,delivered
+1262,susan khan,SUSAN.KHAN42@GMAIL.COM ,+13142773442,New York,NY,Yoga  Mat,Fitness,24.0,2,2024-12-24,Delivered
+1408,SOFIA MILLER,SOFIA.MILLER175@GMAIL.COM,8196879214,houston,TX,Office Chair,Furniture,129.99,,2023-05-07,shipped
+1200,MICHAEL SILVA,Michael.silva128@gmail.com ,,Houston,TX,Notebook Set,Office Supplies,8.99,3,1/10/24,Pending
+1667,patricia kelly,Patricia.kelly134@yahoo.com,+16822256374,Chicago,IL,Bluetooth Speaker,Electronics,45.0,3,3/12/2023,Delivered
+1639,priya silva,PRIYA.SILVA177@COMPANY.CO ,5725815634,Los Angeles,CA,Ballpoint Pens (12pk),Office Supplies,6.49,4,12/13/23,Shipped
+1169,olivia murphy,Olivia.murphy23@gmail.com,434.269.1514,New York,NY,Stainless Water Bottle,Fitness,15.75,5,7/21/23,SHIPPED
+1301, Patricia Lopez , PATRICIA.LOPEZ152@GMAIL.COM,,Los Angeles,CA,Yoga Mat,Fitness,24.0,1,7/18/24,Delivered
+1363,Elizabeth Anderson,ELIZABETH.ANDERSON97@YAHOO.COM,,new york,ny,wireless mouse,electronics,19.99,4,05-08-2023,Pending
+1305,PRIYA SILVA,PRIYA.SILVA2@YAHOO.COM ,7744039928,New York,NY,Yoga Mat,Fitness,24.0,1,8/7/24,delivered
+1270,robert silva,ROBERT.SILVA174@GMAIL.COM ,7195938581,San Diego,CA,Bluetooth Speaker,Electronics,45.0,2,12-03-2024,delivered
+1641,James Hernandez,James.hernandez41@company.co ,,Los Angeles,CA,USB-C Cable 6ft,Electronics,9.5,1,5/4/2024,shipped
+1531,FATIMA JOHNSON, Fatima.johnson102@yahoo.com,681.731.8245,Los Angeles,CA,wireless mouse,electronics,19.99,1,25-07-2024,SHIPPED
+1490,olivia williams, Olivia.Williams6@yahoo.com,(877) 433-5741,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,3,7/12/24,Pending
+1044,David Silva,DAVID.SILVA148@OUTLOOK.COM ,7997616327,Dallas,TX,Notebook Set,Office Supplies,8.99,2,3/17/2024,Delivered
+1559, Richard Martinez ,Richard.martinez179@gmail.com ,941.872.3463,Houston,TX,Desk Lamp,Furniture,22.3,3,1/27/2024,cancelled
+1467, Susan Khan ,SUSAN.KHAN42@GMAIL.COM ,3142773442,New York,NY,Desk Lamp,Furniture,22.3,3,2024-05-22,Pending
+1282,BARBARA MURPHY, Barbara.Murphy48@gmail.com,609.895.9785,San Antonio,TX,Office Chair,Furniture,129.99,2,5/7/2023,Delivered
+1220,barbara lopez,Barbara.Lopez121@yahoo.com,3494509702,Phoenix,AZ,Standing Desk,Furniture,249.0,3,2023-02-25,Pending
+1090, Richard Silva , RICHARD.SILVA162@YAHOO.COM,,New York,NY,USB-C Cable 6ft,Electronics,9.5,4,03-02-2023,Cancelled
+1264,Fatima Hernandez,Fatima.hernandez116@gmail.com,6503029617,new york,ny,Notebook Set,Office Supplies,8.99,5,2023-07-13,Shipped
+1616,priya patel,Priya.patel32@gmail.com,258-720-2312,Los Angeles,CA,Desk Lamp,Furniture,22.3,5,2024-12-03,SHIPPED
+1168, James Martinez ,James.Martinez75@yahoo.com ,,San Diego,CA,Wireless Mouse,Electronics,19.99,3,2/11/23,SHIPPED
+1416, Richard Gonzalez ,Richard.gonzalez14@gmail.com ,6797415119,San Diego,CA,Ballpoint Pens (12pk),Office Supplies,6.49,1,27-02-2024,Delivered
+1303,David Wilson,David.wilson68@company.co,,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,2,3/10/23,Cancelled
+1359,LIAM KHAN,Liam.Khan1@gmail.com,(804) 632-1520,new york,ny,Notebook Set,Office Supplies,8.99,4,10/22/24,cancelled
+1547,Susan Smith,Susan.smith165@company.co ,2795208033,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,4,10/21/24,cancelled
+1349, Michael Silva ,Michael.silva128@gmail.com ,,Houston,TX,Notebook Set,Office Supplies,8.99,4,7/16/2024,SHIPPED
+1008,Jessica Martinez,Jessica.Martinez131@yahoo.com ,(546) 317-8673,Austin ,TX,USB-C Cable 6ft,Electronics,9.5,4,8/12/23,Shipped
+1146,DAVID SILVA,DAVID.SILVA148@OUTLOOK.COM ,7997616327,Dallas,TX,wireless mouse,electronics,19.99,5,2/19/23,SHIPPED
+1077,David Johnson, DAVID.JOHNSON144@GMAIL.COM,9596319619,Los Angeles,CA,Yoga Mat,Fitness,24.0,2,19-09-2024,SHIPPED
+1481,richard rodriguez,RICHARD.RODRIGUEZ30@YAHOO.COM,492-633-8973,Philadelphia,PA,USB-C Cable 6ft,Electronics,9.5,4,06-12-2023,Delivered
+1173,ELIZABETH CHEN,Elizabeth.Chen94@gmail.com ,5127821986,Phoenix,AZ,Bluetooth Speaker,Electronics,45.0,3,1/9/24,delivered
+1128, Susan Martinez , Susan.martinez166@company.co,614-221-6321,new york,ny,USB-C Cable 6ft,Electronics,9.5,4,11/24/23,Cancelled
+1452, Liam Smith ,Liam.Smith143@outlook.com,2155664898,Los Angeles,CA,Standing Desk,Furniture,249.0,1,3/12/2024,delivered
+1274,liam davis,Liam.Davis44@yahoo.com,+13055627658,Dallas,TX,Ballpoint Pens (12pk),Office Supplies,6.49,4,4/28/2024,Shipped
+1413,Noah Johnson, Noah.johnson26@company.co,8698612612,Dallas,TX,Wireless Mouse,Electronics,19.99,1,8/1/2024,Shipped
+1426,susan anderson,SUSAN.ANDERSON96@YAHOO.COM ,(808) 681-5771,Austin ,TX,USB-C Cable 6ft,Electronics,9.5,1,2023-01-01,delivered
+1555,joseph wilson, Joseph.wilson106@company.co,3927306927,New York,NY,Wireless Mouse,Electronics,19.99,2,2023-05-17,delivered
+1568,sofia anderson,Sofia.Anderson135@yahoo.com,5098647689,Austin ,TX,wireless mouse,electronics,19.99,2,24-01-2023,shipped
+1335,ARJUN KELLY,Arjun.Kelly51@company.co ,959.954.4228,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,3,2/24/2023,SHIPPED
+1068,Olivia Kelly, Olivia.Kelly8@yahoo.com,+12738233803,Dallas,TX,Office Chair,Furniture,129.99,5,12/2/24,Delivered
+1042, William Davis ,William.Davis35@outlook.com,6053345915,Houston,TX,Stainless Water Bottle,Fitness,15.75,5,20-07-2024,Cancelled
+1101,susan smith,Susan.smith165@company.co ,+12795208033,Philadelphia,PA,Bluetooth Speaker,Electronics,45.0,3,1/4/2024,Delivered
+1666, William Gonzalez , William.gonzalez53@company.co,502-767-3085,Austin ,TX,Standing Desk,Furniture,249.0,4,2024-03-27,shipped
+1318,LIAM DAVIS,Liam.davis33@gmail.com,+13227835033,Phoenix,AZ,USB-C Cable 6ft,Electronics,9.5,1,2023-08-07,cancelled
+1112,fatima martinez,Fatima.martinez126@gmail.com ,502.222.7484,Austin ,TX,Bluetooth Speaker,Electronics,45.0,4,2023-08-06,Delivered
+1588,Susan Martinez, Susan.martinez166@company.co,6142216321,new york,ny,Ballpoint Pens (12pk),Office Supplies,6.49,1,11/4/24,Pending
+1229,JAMES HERNANDEZ,James.hernandez41@company.co ,,Los Angeles,CA,Yoga  Mat,Fitness,24.0,3,12/26/2024,Shipped
+1380,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Yoga Mat,Fitness,24.0,2,2024-10-11,SHIPPED
+1121,patricia anderson,Patricia.Anderson140@outlook.com,8784171349,new york,ny,Notebook Set,Office Supplies,8.99,2,2023-11-25,shipped
+1334,ROBERT WILSON, ROBERT.WILSON167@GMAIL.COM,4496467560,new york,ny,Wireless Mouse,Electronics,19.99,3,10/27/2024,Cancelled
+1401,Susan Jones, Susan.Jones70@outlook.com,3862515262,Philadelphia,PA,Yoga  Mat,Fitness,24.0,1,10/24/23,Pending
+1367, Joseph Williams ,Joseph.williams105@gmail.com ,4585312899,houston,TX,Wireless Mouse,Electronics,19.99,3,21-01-2023,delivered
+1501, Jennifer Chen ,JENNIFER.CHEN49@OUTLOOK.COM ,239.311.8119,Houston,TX,Wireless Mouse,Electronics,19.99,2,8/18/24,Shipped
+1487,SUSAN MURPHY,Susan.murphy117@company.co,276.680.5342,Los Angeles,CA,Wireless Mouse,Electronics,19.99,1,12/6/24,SHIPPED
+1126, Noah Johnson , Noah.johnson26@company.co,8698612612,Dallas,TX,wireless mouse,electronics,19.99,3,3/13/2023,shipped
+1067,FATIMA PATEL,FATIMA.PATEL88@YAHOO.COM,489.302.4180,San Diego,CA,USB-C Cable 6ft,Electronics,9.5,3,2024-01-26,Delivered
+1546,david lopez, David.Lopez151@gmail.com,(903) 685-2099,Los Angeles,CA,Standing Desk,Furniture,249.0,5,12/2/23,Pending
+1023, Noah Khan ,Noah.Khan39@outlook.com ,,Los Angeles,CA,Ballpoint Pens (12pk),Office Supplies,6.49,4,8/25/2023,Pending
+1409,Michael Wilson,MICHAEL.WILSON55@COMPANY.CO ,8218706279,San Diego,CA,Notebook Set,Office Supplies,8.99,1,10/5/2024,shipped
+1032, Arjun Jones ,ARJUN.JONES43@GMAIL.COM,330.242.6050,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,5,03-01-2023,Delivered
+1120,Michael Garcia,MICHAEL.GARCIA170@COMPANY.CO ,,San Diego,CA,Standing Desk,Furniture,249.0,3,4/14/23,delivered
+1094, Sofia Rodriguez ,Sofia.rodriguez123@outlook.com ,4618821153,Philadelphia,PA,wireless mouse,electronics,19.99,3,12/21/2024,Cancelled
+1631,ARJUN DAVIS, Arjun.Davis98@gmail.com,3524723330,Dallas,TX,Yoga  Mat,Fitness,24.0,2,11/17/23,Shipped
+1524,RICHARD SILVA, RICHARD.SILVA162@YAHOO.COM,207-409-5938,New York,NY,Office Chair,Furniture,129.99,1,2023-01-08,Cancelled
+1248,Fatima Anderson, Fatima.Anderson171@outlook.com,,Dallas,TX,wireless mouse,electronics,19.99,3,19-12-2024,Pending
+1567,james martinez, James.martinez112@company.co,505-801-9022,Austin ,TX,Standing Desk,Furniture,249.0,4,3/17/23,Cancelled
+1114,patricia khan, PATRICIA.KHAN93@COMPANY.CO,+18208104697,Phoenix,AZ,Desk Lamp,Furniture,22.3,1,04-07-2023,Shipped
+1159,BARBARA PATEL,Barbara.patel145@gmail.com ,3116629254,San Diego,CA,Notebook Set,Office Supplies,8.99,2,9/10/23,Shipped
+1015,joseph rodriguez,JOSEPH.RODRIGUEZ86@YAHOO.COM,,Houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,2,2023-11-06,Cancelled
+1429, Richard Rodriguez ,RICHARD.RODRIGUEZ30@YAHOO.COM,492-633-8973,Philadelphia,PA,Desk Lamp,Furniture,22.3,1,25-08-2023,Shipped
+1171,Noah Khan,Noah.Khan39@outlook.com ,,Los Angeles,CA,Wireless Mouse,Electronics,19.99,3,2/10/2024,shipped
+1188,jessica brown,JESSICA.BROWN78@YAHOO.COM,,Phoenix,AZ,Standing Desk,Furniture,249.0,3,6/15/2024,Cancelled
+1468, Susan Khan ,SUSAN.KHAN42@GMAIL.COM ,3142773442,New York,NY,Desk Lamp,Furniture,22.3,3,2024-05-22,Pending
+1589,wei johnson,Wei.johnson178@gmail.com ,862.542.2079,Dallas,TX,Wireless Mouse,Electronics,19.99,1,4/15/2023,Shipped
+1142, Fatima Johnson , Fatima.johnson102@yahoo.com,681.731.8245,Los Angeles,CA,wireless mouse,electronics,19.99,4,2024-06-03,Pending
+1596,olivia williams, Olivia.Williams6@yahoo.com,(877) 433-5741,New York,NY,Standing Desk,Furniture,249.0,2,07-04-2023,delivered
+1400,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Wireless Mouse,Electronics,19.99,3,2023-08-03,delivered
+1387, David Lopez , David.Lopez151@gmail.com,(903) 685-2099,Los Angeles,CA,Bluetooth Speaker,Electronics,45.0,4,3/22/23,shipped
+1075,RICHARD RODRIGUEZ,RICHARD.RODRIGUEZ30@YAHOO.COM,,Philadelphia,PA,Standing Desk,Furniture,249.0,4,08-07-2024,cancelled
+1111,Fatima Rodriguez,FATIMA.RODRIGUEZ80@YAHOO.COM ,4512885569,houston,TX,Office Chair,Furniture,129.99,5,1/16/2023,cancelled
+1297,NOAH KHAN,Noah.Khan72@gmail.com,,New York,NY,Office Chair,Furniture,129.99,2,02-01-2024,Cancelled
+1323, Olivia Brown , OLIVIA.BROWN46@COMPANY.CO,239-681-4644,Phoenix,AZ,Desk Lamp,Furniture,22.3,4,20-09-2024,Pending
+1271,William Silva, William.silva101@gmail.com,,Houston,TX,Standing Desk,Furniture,249.0,2,2023-08-26,Delivered
+1245,DAVID PATEL,DAVID.PATEL100@GMAIL.COM ,7056482317,San Antonio,TX,Desk Lamp,Furniture,22.3,3,2024-11-26,SHIPPED
+1132,BARBARA PATEL,Barbara.patel145@gmail.com ,3116629254,San Diego,CA,Bluetooth Speaker,Electronics,45.0,3,2023-02-01,delivered
+1553,Joseph Davis,Joseph.Davis28@gmail.com,,new york,ny,wireless mouse,electronics,19.99,5,2023-09-04,Delivered
+1634,SOFIA MILLER,SOFIA.MILLER175@GMAIL.COM,819-687-9214,houston,TX,Office Chair,Furniture,129.99,3,3/15/23,Delivered
+1232,SUSAN SMITH,Susan.smith165@company.co ,+12795208033,Philadelphia,PA,Stainless Water Bottle,Fitness,15.75,5,2023-05-15,SHIPPED
+1509,PRIYA ANDERSON,PRIYA.ANDERSON60@YAHOO.COM ,7704552988,New York,NY,Yoga  Mat,Fitness,24.0,2,2024-11-11,delivered
+1119, Olivia Murphy ,Olivia.murphy23@gmail.com,434.269.1514,New York,NY,Bluetooth Speaker,Electronics,45.0,5,2024-08-16,shipped
+1539,elizabeth sharma, ELIZABETH.SHARMA136@COMPANY.CO,299-440-9807,new york,ny,Wireless Mouse,Electronics,19.99,1,1/6/24,cancelled
+1569, Richard Rodriguez ,RICHARD.RODRIGUEZ30@YAHOO.COM,492-633-8973,Philadelphia,PA,Stainless Water Bottle,Fitness,15.75,5,05-09-2023,delivered
+1601,Robert Davis,Robert.davis109@outlook.com ,6723203522,new york,ny,Notebook Set,Office Supplies,8.99,5,11/22/23,Pending
+1425, Joseph Silva , Joseph.Silva36@outlook.com,302-275-9808,San Diego,CA,Bluetooth Speaker,Electronics,45.0,2,8/8/2023,shipped
+1218,Noah Johnson,Noah.Johnson127@outlook.com ,9637085689,San Diego,CA,Standing Desk,Furniture,249.0,1,2023-07-02,delivered
+1459,Elizabeth Smith, Elizabeth.smith89@gmail.com,(746) 329-5494,Austin ,TX,Yoga  Mat,Fitness,24.0,4,12/15/24,delivered
+1577,JOSEPH KHAN,Joseph.khan5@outlook.com,,new york,ny,Stainless Water Bottle,Fitness,15.75,4,1/28/24,delivered
+1070,michael lopez, Michael.Lopez169@gmail.com,9448603419,houston,TX,Desk Lamp,Furniture,22.3,2,5/2/23,Cancelled
+1477,JAMES MARTINEZ, James.martinez112@company.co,5058019022,Austin ,TX,Ballpoint Pens (12pk),Office Supplies,6.49,1,7/14/2023,cancelled
+1529,Fatima Hernandez,Fatima.hernandez116@gmail.com,6503029617,new york,ny,Ballpoint Pens (12pk),Office Supplies,6.49,3,21-01-2024,SHIPPED
+1333,Barbara Rodriguez,Barbara.rodriguez82@gmail.com,+14868105526,houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,5,14-11-2024,Pending
+1073, Susan Smith ,Susan.smith165@company.co ,+12795208033,Philadelphia,PA,wireless mouse,electronics,19.99,4,2023-09-24,delivered
+1584, Sofia Rodriguez ,Sofia.rodriguez123@outlook.com ,4618821153,Philadelphia,PA,Yoga  Mat,Fitness,24.0,5,27-06-2023,Shipped
+1388,JOHN SILVA,John.Silva142@outlook.com,4833483129,New York,NY,wireless mouse,electronics,19.99,4,7/3/23,Pending
+1421,robert wilson, ROBERT.WILSON167@GMAIL.COM,+14496467560,new york,ny,Ballpoint Pens (12pk),Office Supplies,6.49,5,2023-12-19,Shipped
+1228,Elizabeth Sharma, ELIZABETH.SHARMA136@COMPANY.CO,299-440-9807,new york,ny,Yoga  Mat,Fitness,24.0,4,2023-01-13,Shipped
+1109,Olivia Murphy,Olivia.murphy76@gmail.com,,Chicago,IL,Notebook Set,Office Supplies,8.99,5,04-06-2023,shipped
+1298,JOSEPH JONES,Joseph.Jones69@gmail.com ,+17462277455,San Diego,CA,Desk Lamp,Furniture,22.3,4,10/20/24,delivered
+1431,Noah Murphy, NOAH.MURPHY157@COMPANY.CO,293-964-9691,New York,NY,Office Chair,Furniture,129.99,,2023-09-06,Cancelled
+1219, Robert Wilson , ROBERT.WILSON167@GMAIL.COM,4496467560,new york,ny,Ballpoint Pens (12pk),Office Supplies,6.49,4,1/27/23,Pending
+1341, Fatima Patel ,FATIMA.PATEL88@YAHOO.COM,489.302.4180,San Diego,CA,Ballpoint Pens (12pk),Office Supplies,6.49,3,2024-04-17,delivered
+1230,NOAH MURPHY, NOAH.MURPHY157@COMPANY.CO,2939649691,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,5,2024-04-17,cancelled
+1311, Sofia Rodriguez ,SOFIA.RODRIGUEZ40@COMPANY.CO,(700) 457-1832,San Antonio,TX,Office Chair,Furniture,129.99,1,2023-01-12,SHIPPED
+1231,Sofia Miller,SOFIA.MILLER175@GMAIL.COM,819-687-9214,houston,TX,Stainless Water Bottle,Fitness,15.75,5,12/9/23,Delivered
+1278, Patricia Davis , Patricia.Davis27@company.co,3947498350,Chicago,IL,Desk Lamp,Furniture,22.3,1,26-02-2024,Cancelled
+1545,Jessica Williams,Jessica.williams13@company.co,,New York,NY,Stainless Water Bottle,Fitness,15.75,1,28-07-2024,Shipped
+1185,RICHARD SILVA, RICHARD.SILVA162@YAHOO.COM,2074095938,New York,NY,wireless mouse,electronics,19.99,1,8/20/2024,Cancelled
+1254,WILLIAM ANDERSON,WILLIAM.ANDERSON150@COMPANY.CO ,625.947.2557,Phoenix,AZ,Standing Desk,Furniture,249.0,,9/17/23,Pending
+1668,JOSEPH DAVIS,Joseph.Davis28@gmail.com,(653) 763-2604,new york,ny,Office Chair,Furniture,129.99,5,4/2/2023,delivered
+1418, Arjun Davis , Arjun.Davis98@gmail.com,3524723330,Dallas,TX,Ballpoint Pens (12pk),Office Supplies,6.49,2,2/21/24,shipped
+1491,Priya Anderson,PRIYA.ANDERSON60@YAHOO.COM ,7704552988,New York,NY,Ballpoint Pens (12pk),Office Supplies,6.49,3,5/4/2024,Shipped
+1496, David Silva ,DAVID.SILVA148@OUTLOOK.COM ,7997616327,Dallas,TX,wireless mouse,electronics,19.99,5,2/19/24,Delivered
+1447,ROBERT DAVIS,Robert.davis37@outlook.com ,+14913618179,houston,TX,Office Chair,Furniture,129.99,2,5/14/23,Pending
+1637, Sofia Rodriguez ,SOFIA.RODRIGUEZ40@COMPANY.CO,(700) 457-1832,San Antonio,TX,Yoga  Mat,Fitness,24.0,5,12/24/23,cancelled
+1047, Elizabeth Sharma , ELIZABETH.SHARMA136@COMPANY.CO,2994409807,new york,ny,Stainless Water Bottle,Fitness,15.75,5,10/16/2023,delivered
+1499, Patricia Kelly ,PATRICIA.KELLY15@OUTLOOK.COM,9684736573,San Antonio,TX,Desk Lamp,Furniture,22.3,2,08-03-2023,cancelled
+1115,ROBERT HERNANDEZ,Robert.Hernandez22@yahoo.com,+18027674770,New York,NY,Office Chair,Furniture,129.99,1,12/19/24,SHIPPED
+1510, Joseph Martinez , Joseph.martinez125@company.co,5936942747,Chicago,IL,Office Chair,Furniture,129.99,4,27-02-2023,shipped
+1397, David Patel , David.patel20@yahoo.com,,San Diego,CA,USB-C Cable 6ft,Electronics,9.5,5,9/3/2023,Cancelled
+1518, William Garcia ,William.Garcia158@gmail.com,5199386314,houston,TX,Office Chair,Furniture,129.99,2,2/1/2024,Pending
+1596,olivia williams, Olivia.Williams6@yahoo.com,(877) 433-5741,New York,NY,Standing Desk,Furniture,249.0,2,07-04-2023,delivered
+1544,richard martinez,Richard.martinez179@gmail.com ,941.872.3463,Houston,TX,Office Chair,Furniture,129.99,,8/19/2023,delivered
+1475, William Hernandez ,WILLIAM.HERNANDEZ71@GMAIL.COM,484.970.7906,Phoenix,AZ,Notebook Set,Office Supplies,8.99,3,2023-09-25,shipped
+1534,JESSICA MARTINEZ,Jessica.Martinez131@yahoo.com ,(546) 317-8673,Austin ,TX,Stainless Water Bottle,Fitness,15.75,4,17-08-2023,Cancelled
+1214,Joseph Williams,Joseph.williams105@gmail.com ,4585312899,houston,TX,Office Chair,Furniture,129.99,1,11/11/2023,Pending
+1650,William Williams,WILLIAM.WILLIAMS176@COMPANY.CO ,8613761641,San Antonio,TX,Stainless Water Bottle,Fitness,15.75,4,1/20/24,Delivered
+1072,liam martinez,LIAM.MARTINEZ57@YAHOO.COM ,(403) 350-1400,Chicago,IL,Yoga  Mat,Fitness,24.0,2,9/14/2024,cancelled
+1360, Liam Khan ,N/A,(804) 632-1520,new york,ny,Yoga Mat,Fitness,24.0,5,2023-01-06,Pending
+1624,Fatima Patel,FATIMA.PATEL88@YAHOO.COM,489.302.4180,San Diego,CA,Bluetooth Speaker,Electronics,45.0,4,11/17/23,Delivered
+1031,NOAH KHAN,Noah.Khan72@gmail.com,,New York,NY,wireless mouse,electronics,19.99,3,2024-03-21,SHIPPED
+1551,Robert Martinez,Robert.Martinez173@outlook.com ,662.238.1932,Philadelphia,PA,USB-C Cable 6ft,Electronics,9.5,2,6/14/2023,shipped
+1358,Michael Smith,Michael.smith73@gmail.com,3564443068,San Diego,CA,Ballpoint Pens (12pk),Office Supplies,6.49,2,2024-04-01,Cancelled
+1205,William Wilson, William.Wilson130@outlook.com,405.335.9837,Los Angeles,CA,Standing Desk,Furniture,249.0,5,2/26/23,Delivered
+1326,FATIMA RODRIGUEZ,FATIMA.RODRIGUEZ80@YAHOO.COM ,4512885569,houston,TX,Wireless Mouse,Electronics,19.99,3,1/15/2024,SHIPPED
+1550,fatima davis,Fatima.Davis155@outlook.com,7749851430,Phoenix,AZ,Office Chair,Furniture,129.99,1,2023-05-08,Shipped
+1480,BARBARA LOPEZ,Barbara.Lopez121@yahoo.com,3494509702,Phoenix,AZ,Ballpoint Pens (12pk),Office Supplies,6.49,3,11/16/23,Cancelled
+1651,David Smith, David.Smith3@yahoo.com,914.632.6574,Los Angeles,CA,Yoga Mat,Fitness,24.0,1,4/24/2024,shipped
+1296,patricia anderson,Patricia.Anderson140@outlook.com,(878) 417-1349,new york,ny,Wireless Mouse,Electronics,19.99,1,2023-02-09,cancelled
+1201, Susan Kelly ,Susan.kelly34@yahoo.com ,778.735.6183,San Diego,CA,Stainless Water Bottle,Fitness,15.75,4,2024-03-26,Delivered
+1575,Priya Martinez,PRIYA.MARTINEZ146@COMPANY.CO ,8582311996,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,3,4/20/2023,Cancelled
+1099,jessica smith,Jessica.smith18@yahoo.com,5715144923,new york,ny,Office Chair,Furniture,129.99,5,2024-09-17,Pending
+1025,DAVID MARTINEZ,David.Martinez156@company.co,559-206-3972,houston,TX,Yoga  Mat,Fitness,24.0,4,3/28/23,SHIPPED
+1560,patricia kelly,PATRICIA.KELLY139@COMPANY.CO,7578606876,houston,TX,Notebook Set,Office Supplies,8.99,5,13-11-2023,shipped
+1144, Olivia Williams , Olivia.Williams6@yahoo.com,(877) 433-5741,New York,NY,Yoga Mat,Fitness,24.0,5,01-06-2024,shipped
+1275,WEI JOHNSON,Wei.johnson178@gmail.com ,862.542.2079,Dallas,TX,Yoga Mat,Fitness,24.0,5,6/8/2023,shipped
+1658,David Wilson,DAVID.WILSON110@YAHOO.COM,6834498483,Philadelphia,PA,USB-C Cable 6ft,Electronics,9.5,4,28-07-2023,SHIPPED
+1348, Michael Silva ,Michael.silva128@gmail.com ,,Houston,TX,Notebook Set,Office Supplies,8.99,4,7/16/2024,SHIPPED
+1154,William Hernandez,WILLIAM.HERNANDEZ71@GMAIL.COM,484.970.7906,Phoenix,AZ,Office Chair,Furniture,129.99,2,11/10/24,Cancelled
+1029,Jessica Smith,Jessica.smith18@yahoo.com,5715144923,new york,ny,USB-C Cable 6ft,Electronics,9.5,3,8/22/2024,SHIPPED
+1587,Patricia Williams,Patricia.Williams4@outlook.com ,2995676635,Phoenix,AZ,Standing Desk,Furniture,249.0,2,1/1/23,Cancelled
+1279,jennifer sharma, Jennifer.sharma62@outlook.com,,Philadelphia,PA,Stainless Water Bottle,Fitness,15.75,4,2024-08-04,cancelled
+1445,Olivia Gonzalez,Olivia.Gonzalez115@gmail.com ,8798673492,Phoenix,AZ,Office Chair,Furniture,129.99,5,12/18/24,Pending
+1354,OLIVIA BROWN, OLIVIA.BROWN46@COMPANY.CO,2396814644,Phoenix,AZ,Notebook Set,Office Supplies,8.99,5,2024-07-11,SHIPPED
+1615,Robert Davis,Robert.davis109@outlook.com ,6723203522,new york,ny,Ballpoint Pens (12pk),Office Supplies,6.49,2,10-09-2023,Delivered
+1386,FATIMA JOHNSON, Fatima.johnson102@yahoo.com,681.731.8245,Los Angeles,CA,Notebook Set,Office Supplies,8.99,4,9/6/24,shipped
+1317, Fatima Miller , Fatima.Miller141@yahoo.com,9837674394,new york,ny,USB-C Cable 6ft,Electronics,9.5,5,2024-07-21,shipped
+1339, Robert Chen ,Robert.Chen92@outlook.com,9022543485,Dallas,TX,wireless mouse,electronics,19.99,1,13-04-2023,Cancelled
+1573,jennifer hernandez,Jennifer.hernandez104@company.co,,Phoenix,AZ,Bluetooth Speaker,Electronics,45.0,2,02-09-2024,shipped
+1309, Mary Chen , Mary.chen31@gmail.com,(755) 262-6138,Austin ,TX,Yoga  Mat,Fitness,24.0,4,2023-06-02,Delivered
+1024,SOFIA DAVIS, SOFIA.DAVIS63@OUTLOOK.COM,6502795681,Houston,TX,wireless mouse,electronics,19.99,1,13-09-2023,delivered
+1137,David Wilson,David.wilson68@company.co,,Philadelphia,PA,Standing Desk,Furniture,249.0,1,09-07-2023,shipped
+1267,Elizabeth Anderson,N/A,,new york,ny,Stainless Water Bottle,Fitness,15.75,5,3/9/2024,shipped
+1405,wei patel, Wei.patel111@outlook.com,3392715526,Austin ,TX,Wireless Mouse,Electronics,19.99,3,2023-11-11,Pending
+1607,Mary Hernandez,Mary.Hernandez10@outlook.com ,+14742674456,Phoenix,AZ,Office Chair,Furniture,129.99,2,12/8/2024,Delivered
+1066,DAVID PATEL,DAVID.PATEL100@GMAIL.COM ,+17056482317,San Antonio,TX,Desk Lamp,Furniture,22.3,2,1/10/24,cancelled
+1394,JENNIFER WILLIAMS, Jennifer.williams124@company.co,,Philadelphia,PA,Ballpoint Pens (12pk),Office Supplies,6.49,4,3/21/24,cancelled
+1643, Joseph Jones ,Joseph.Jones69@gmail.com ,+17462277455,San Diego,CA,USB-C Cable 6ft,Electronics,9.5,4,4/23/2023,Cancelled
+1351,Sofia Davis, SOFIA.DAVIS63@OUTLOOK.COM,6502795681,Houston,TX,Bluetooth Speaker,Electronics,45.0,4,2024-12-11,shipped
+1540, Michael Jones , Michael.Jones154@outlook.com,693.429.2773,Dallas,TX,Standing Desk,Furniture,249.0,4,22-12-2024,shipped
+1308,david kelly, David.Kelly24@company.co,,Philadelphia,PA,Desk Lamp,Furniture,22.3,2,11/10/2024,Shipped
+1194,liam martinez,LIAM.MARTINEZ57@YAHOO.COM ,4033501400,Chicago,IL,Standing Desk,Furniture,249.0,3,6/9/24,shipped
+1224,DAVID WILSON,DAVID.WILSON110@YAHOO.COM,+16834498483,Philadelphia,PA,Notebook Set,Office Supplies,8.99,4,2023-12-27,cancelled
+1654,michael garcia,MICHAEL.GARCIA170@COMPANY.CO ,3569782234,San Diego,CA,Yoga Mat,Fitness,24.0,2,2023-03-15,Cancelled
+1483, Sofia Sharma ,Sofia.sharma103@outlook.com,681.556.7690,new york,ny,Office Chair,Furniture,129.99,5,04-08-2023,Cancelled
+1106,Noah Hernandez,Noah.hernandez168@gmail.com ,(541) 997-3754,Chicago,IL,Bluetooth Speaker,Electronics,45.0,4,8/19/24,Shipped
+1420,jessica brown,JESSICA.BROWN78@YAHOO.COM,,Phoenix,AZ,Office Chair,Furniture,129.99,5,11-01-2023,Shipped
+1479, Noah Khan ,Noah.Khan72@gmail.com,,New York,NY,Office Chair,Furniture,129.99,5,18-04-2024,cancelled
+1071, Olivia Davis ,Olivia.davis164@company.co,7728846802,San Antonio,TX,Ballpoint Pens (12pk),Office Supplies,6.49,4,7/5/24,SHIPPED
+1102,ROBERT MARTINEZ,Robert.Martinez173@outlook.com ,662.238.1932,Philadelphia,PA,Notebook Set,Office Supplies,8.99,5,16-01-2023,cancelled
+1332,wei johnson,Wei.johnson178@gmail.com ,862.542.2079,Dallas,TX,USB-C Cable 6ft,Electronics,9.5,2,8/13/2023,Delivered
+1222,BARBARA MURPHY, Barbara.Murphy48@gmail.com,609.895.9785,San Antonio,TX,wireless mouse,electronics,19.99,4,2024-04-23,cancelled
+1566,Barbara Lopez,Barbara.Lopez121@yahoo.com,3494509702,Phoenix,AZ,Yoga Mat,Fitness,24.0,4,11/17/24,delivered
+1041,William Wilson, William.Wilson130@outlook.com,405.335.9837,Los Angeles,CA,Bluetooth Speaker,Electronics,45.0,5,1/5/24,Cancelled
+1511,patricia anderson,Patricia.Anderson140@outlook.com,(878) 417-1349,new york,ny,Standing Desk,Furniture,249.0,3,1/21/23,SHIPPED
+1334,ROBERT WILSON, ROBERT.WILSON167@GMAIL.COM,4496467560,new york,ny,Wireless Mouse,Electronics,19.99,3,10/27/2024,Cancelled
+1640,susan kelly,Susan.kelly34@yahoo.com ,778.735.6183,San Diego,CA,Stainless Water Bottle,Fitness,15.75,4,2/3/23,SHIPPED
+1015,joseph rodriguez,N/A,,Houston,TX,Ballpoint Pens (12pk),Office Supplies,6.49,2,2023-11-06,Cancelled
+1242,Richard Rodriguez,RICHARD.RODRIGUEZ30@YAHOO.COM,492-633-8973,Philadelphia,PA,Desk Lamp,Furniture,22.3,1,28-12-2023,shipped
+1244,DAVID PATEL,DAVID.PATEL100@GMAIL.COM ,7056482317,San Antonio,TX,Desk Lamp,Furniture,22.3,3,2024-11-26,SHIPPED
+1056, Jessica Anderson ,JESSICA.ANDERSON84@YAHOO.COM ,2955014630,New York,NY,USB-C Cable 6ft,Electronics,9.5,4,24-01-2024,Delivered
+1216,MARY MARTINEZ, Mary.Martinez129@yahoo.com,,Philadelphia,PA,Office Chair,Furniture,129.99,4,11-08-2023,delivered
+1523, Noah Khan ,Noah.Khan72@gmail.com,,New York,NY,Yoga  Mat,Fitness,24.0,,7/6/24,SHIPPED
+1039,sofia sharma,Sofia.sharma103@outlook.com,681.556.7690,new york,ny,Stainless Water Bottle,Fitness,15.75,1,18-10-2023,delivered
+1299, Robert Anderson , ROBERT.ANDERSON58@COMPANY.CO,,Phoenix,AZ,wireless mouse,electronics,19.99,4,09-07-2023,Shipped
+1548,jennifer chen,JENNIFER.CHEN49@OUTLOOK.COM ,239.311.8119,Houston,TX,Office Chair,Furniture,129.99,3,9/8/24,SHIPPED
